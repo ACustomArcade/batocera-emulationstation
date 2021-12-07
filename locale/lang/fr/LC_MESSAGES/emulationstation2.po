@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: emulationstation\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-06 08:04+0100\n"
+"POT-Creation-Date: 2021-12-07 08:49+0100\n"
 "PO-Revision-Date: \n"
 "Last-Translator: evoflash <evoflash@me.com>\n"
 "Language-Team: Batocera official\n"
@@ -2230,6 +2230,4455 @@ msgstr "ZOOM"
 msgid "GAMES TO INDEX"
 msgstr "JEUX À INDEXER"
 
+msgid "Head up display"
+msgstr "Affichage en surimpression"
+
+msgid "Render some information over the game"
+msgstr "Afficher les informations sur le jeu"
+
+msgid "Game"
+msgstr "Jeu"
+
+msgid "Performances"
+msgstr "Performances"
+
+msgid "Custom"
+msgstr "Personnalisé"
+
+msgid "Enable the Chroma 81 interface"
+msgstr ""
+
+msgid "Autodetect"
+msgstr ""
+
+msgid "Off"
+msgstr ""
+
+msgid "On (forced)"
+msgstr ""
+
+msgid "HIGH RESOLUTION"
+msgstr ""
+
+msgid "Enables WRX high resolution module"
+msgstr ""
+
+msgid "ATARI SYSTEM"
+msgstr ""
+
+msgid "Choose what Atari System to emulate"
+msgstr ""
+
+msgid "400/600XL/800 (48K) (OS B)"
+msgstr ""
+
+msgid "800XL/1200XL/XEGS (64K)"
+msgstr ""
+
+msgid "130XE (128K)"
+msgstr ""
+
+msgid "Modern XL/XE (320K CS)"
+msgstr ""
+
+msgid "Modern XL/XE (576K)"
+msgstr ""
+
+msgid "Modern XL/XE (1088K)"
+msgstr ""
+
+msgid "VIDEO STANDARD"
+msgstr ""
+
+msgid "Switch frequency and resolution by region"
+msgstr ""
+
+msgid "NTSC"
+msgstr ""
+
+msgid "PAL"
+msgstr ""
+
+msgid "SIO ACCELERATION"
+msgstr ""
+
+msgid "Speeds up file loading (a few games will not load)"
+msgstr ""
+
+msgid "On"
+msgstr ""
+
+msgid "HI-RES ARTIFACTING"
+msgstr ""
+
+msgid "Artificial color filters to mimic actual hardware"
+msgstr ""
+
+msgid "Enables alternate resolutions for some games"
+msgstr ""
+
+msgid "JOYSTICK HACK (FOR ROBOTRON)"
+msgstr ""
+
+msgid "Treats the second analog stick as joystick 2"
+msgstr ""
+
+msgid "REDUCE SPRITE FLICKERING"
+msgstr ""
+
+msgid "Remove the 4 sprite per line limit"
+msgstr ""
+
+msgid "CPC MODEL"
+msgstr ""
+
+msgid "Choose which Amstrad CPC model to emulate"
+msgstr ""
+
+msgid "6128+"
+msgstr ""
+
+msgid "RAM SIZE"
+msgstr ""
+
+msgid "CPC physical RAM size in kB"
+msgstr ""
+
+msgid "192+"
+msgstr ""
+
+msgid "576+"
+msgstr ""
+
+msgid "NTSC FILTER"
+msgstr ""
+
+msgid "Optional video filtering"
+msgstr ""
+
+msgid "Disabled"
+msgstr ""
+
+msgid "Composite (Blargg)"
+msgstr ""
+
+msgid "S-Video (Blargg)"
+msgstr ""
+
+msgid "RGB (Blargg)"
+msgstr ""
+
+msgid "Monochrome (Blargg)"
+msgstr ""
+
+msgid "BLEND HIGH-RES MODES"
+msgstr ""
+
+msgid "Enable pseudo-transparency, may cause blurriness"
+msgstr ""
+
+msgid "CUBIC INTERPOLATION (AUDIO)"
+msgstr ""
+
+msgid "Change the audio filtering, may improve sound quality"
+msgstr ""
+
+msgid "GAME BOY MODEL"
+msgstr ""
+
+msgid "Manually set the Game Boy type"
+msgstr ""
+
+msgid "Game Boy"
+msgstr ""
+
+msgid "Game Boy Color"
+msgstr ""
+
+msgid "Super Game Boy"
+msgstr ""
+
+msgid "SUPER GAME BOY 2"
+msgstr ""
+
+msgid "Use the Super Game Boy 2 for SGB"
+msgstr ""
+
+msgid "Overclock the SNES CPU"
+msgstr ""
+
+msgid "Low"
+msgstr ""
+
+msgid "Medium"
+msgstr ""
+
+msgid "High"
+msgstr ""
+
+msgid "Very High"
+msgstr ""
+
+msgid "OVERCLOCK TYPE"
+msgstr ""
+
+msgid "Change to After NMI only if needed"
+msgstr ""
+
+msgid "Before NMI"
+msgstr ""
+
+msgid "After NMI"
+msgstr ""
+
+msgid "SUPERFX OVERCLOCK"
+msgstr ""
+
+msgid "Overclock the SuperFX Chip"
+msgstr ""
+
+msgid "VIDEO RESOLUTION"
+msgstr ""
+
+msgid "Improve the fidelity of 3D models (does not affect 2D sprites)"
+msgstr ""
+
+msgid "TEXTURE UPSCALING (XBRZ)"
+msgstr ""
+
+msgid "Upscales textures on 3D objects"
+msgstr ""
+
+msgid "TEXTURE SMOOTHING"
+msgstr ""
+
+msgid "Smooths out textures on 3D objects"
+msgstr ""
+
+msgid "ANTI-ALIASING (MSAA)"
+msgstr ""
+
+msgid "Smooth out jagged edges on 3D object polygons"
+msgstr ""
+
+msgid "SCREEN LAYOUT"
+msgstr ""
+
+msgid "Allows you to arrange the DS screens"
+msgstr ""
+
+msgid "top/bottom"
+msgstr ""
+
+msgid "bottom/top"
+msgstr ""
+
+msgid "left/right"
+msgstr ""
+
+msgid "right/left"
+msgstr ""
+
+msgid "top only"
+msgstr ""
+
+msgid "bottom only"
+msgstr ""
+
+msgid "quick switch"
+msgstr ""
+
+msgid "hybrid/top"
+msgstr ""
+
+msgid "hybrid/bottom"
+msgstr ""
+
+msgid "FRAMESKIP"
+msgstr ""
+
+msgid "Skip frames to improve performance (smoothness)"
+msgstr ""
+
+msgid "SKIP DS SYSTEM MENU"
+msgstr ""
+
+msgid "Use it to configure options like time and language"
+msgstr ""
+
+msgid "hybrid top ratio 2"
+msgstr ""
+
+msgid "hybrid top ratio 3"
+msgstr ""
+
+msgid "hybrid bottom ratio 2"
+msgstr ""
+
+msgid "hybrid bottom ratio 3"
+msgstr ""
+
+msgid "CPU TIMING MODE (FPS)"
+msgstr ""
+
+msgid "internal (fixed 60fps)"
+msgstr ""
+
+msgid "internal (variable fps)"
+msgstr ""
+
+msgid "external (variable fps)"
+msgstr ""
+
+msgid "VIDEO FILTER"
+msgstr ""
+
+msgid "Apply to achieve some kind of visual effect"
+msgstr ""
+
+msgid "normal2x"
+msgstr ""
+
+msgid "normal3x"
+msgstr ""
+
+msgid "advmame2x"
+msgstr ""
+
+msgid "advmame3x"
+msgstr ""
+
+msgid "advinterp2x"
+msgstr ""
+
+msgid "advinterp3x"
+msgstr ""
+
+msgid "hq2x"
+msgstr ""
+
+msgid "hq3x"
+msgstr ""
+
+msgid "2xai"
+msgstr ""
+
+msgid "super2xai"
+msgstr ""
+
+msgid "supereagle"
+msgstr ""
+
+msgid "tv2x"
+msgstr ""
+
+msgid "tv3x"
+msgstr ""
+
+msgid "rgb2x"
+msgstr ""
+
+msgid "rgb3x"
+msgstr ""
+
+msgid "scan2x"
+msgstr ""
+
+msgid "scan3x"
+msgstr ""
+
+msgid "CONTROLLER 1 TYPE"
+msgstr ""
+
+msgid "Select Keyboard, Joystick or Gamepad mode"
+msgstr ""
+
+msgid "Gamepad (D-pad, 2 Buttons)"
+msgstr ""
+
+msgid "Keyboard + Mouse"
+msgstr ""
+
+msgid "Joystick (2 Axes, 2 Buttons)"
+msgstr ""
+
+msgid "CONTROLLER 2 TYPE"
+msgstr ""
+
+msgid "CPU TYPE"
+msgstr ""
+
+msgid "Select the fine CPU type for your game"
+msgstr ""
+
+msgid "Autodetect (Compatible)"
+msgstr ""
+
+msgid "386 (slow)"
+msgstr ""
+
+msgid "386 (prefetch)"
+msgstr ""
+
+msgid "486 (slow)"
+msgstr ""
+
+msgid "Pentium (slow)"
+msgstr ""
+
+msgid "CPU CORE METHOD"
+msgstr ""
+
+msgid "Choose an accurate or fast method"
+msgstr ""
+
+msgid "Optimized (auto)"
+msgstr ""
+
+msgid "Dynamic (fast)"
+msgstr ""
+
+msgid "Normal (interpreter)"
+msgstr ""
+
+msgid "Simple (interpreter for old real-mode games)"
+msgstr ""
+
+msgid "CPU EMULATED PERFORMANCE"
+msgstr ""
+
+msgid "Select CPU cycles by model (use with caution)"
+msgstr ""
+
+msgid "MAX (as many as possible)"
+msgstr ""
+
+msgid "8086/8088, 4.77MHz (315 cps)"
+msgstr ""
+
+msgid "286, 6MHz (1320 cps)"
+msgstr ""
+
+msgid "286, 12.5MHz (2750 cps)"
+msgstr ""
+
+msgid "386, 20MHz (4720 cps)"
+msgstr ""
+
+msgid "386DX, 33MHz (7800 cps)"
+msgstr ""
+
+msgid "486DX, 33MHz (13400 cps)"
+msgstr ""
+
+msgid "486DX2, 66MHz (26800 cps)"
+msgstr ""
+
+msgid "Pentium, 100MHz (77000 cps)"
+msgstr ""
+
+msgid "Pentium II, 300MHz (200000 cps)"
+msgstr ""
+
+msgid "Pentium III, 600MHz (500000 cps)"
+msgstr ""
+
+msgid "AMD Athlon, 1.2GHz (1000000 cps)"
+msgstr ""
+
+msgid "The amount of RAM for the emulated machine"
+msgstr ""
+
+msgid "No EMS/XMS"
+msgstr ""
+
+msgid "4MB"
+msgstr ""
+
+msgid "8MB"
+msgstr ""
+
+msgid "16MB"
+msgstr ""
+
+msgid "24MB"
+msgstr ""
+
+msgid "32MB"
+msgstr ""
+
+msgid "48MB"
+msgstr ""
+
+msgid "64MB"
+msgstr ""
+
+msgid "96MB"
+msgstr ""
+
+msgid "128MB"
+msgstr ""
+
+msgid "224MB"
+msgstr ""
+
+msgid "GRAPHICS CHIP TYPE"
+msgstr ""
+
+msgid "Video card graphic chip type"
+msgstr ""
+
+msgid "SVGA"
+msgstr ""
+
+msgid "VGA"
+msgstr ""
+
+msgid "EGA"
+msgstr ""
+
+msgid "CGA"
+msgstr ""
+
+msgid "Tandy"
+msgstr ""
+
+msgid "Hercules"
+msgstr ""
+
+msgid "PCjr"
+msgstr ""
+
+msgid "KEYBOARD LAYOUT"
+msgstr ""
+
+msgid "Select physical keyboard layout (not the On-Screen one)"
+msgstr ""
+
+msgid "US"
+msgstr ""
+
+msgid "UK"
+msgstr ""
+
+msgid "Brazil"
+msgstr ""
+
+msgid "Croatia"
+msgstr ""
+
+msgid "Czech Republic"
+msgstr ""
+
+msgid "Denmark"
+msgstr ""
+
+msgid "Finland"
+msgstr ""
+
+msgid "France"
+msgstr ""
+
+msgid "Germany"
+msgstr ""
+
+msgid "Greece"
+msgstr ""
+
+msgid "Hungary"
+msgstr ""
+
+msgid "Iceland"
+msgstr ""
+
+msgid "Italy"
+msgstr ""
+
+msgid "Netherlands"
+msgstr ""
+
+msgid "Norway"
+msgstr ""
+
+msgid "Poland"
+msgstr ""
+
+msgid "Portugal"
+msgstr ""
+
+msgid "Russia"
+msgstr ""
+
+msgid "Slovakia"
+msgstr ""
+
+msgid "Slovenia"
+msgstr ""
+
+msgid "Spain"
+msgstr ""
+
+msgid "Sweden"
+msgstr ""
+
+msgid "Switzerland (German)"
+msgstr ""
+
+msgid "Switzerland (French)"
+msgstr ""
+
+msgid "Turkey"
+msgstr ""
+
+msgid "SAVESTATE / REWIND"
+msgstr ""
+
+msgid "Enable Savestate and optionally Rewind support"
+msgstr ""
+
+msgid "On with rewind support"
+msgstr ""
+
+msgid "GAMEPAD AUTOMATIC MAPPING"
+msgstr ""
+
+msgid "Apply a gamepad mapping scheme for selected game"
+msgstr ""
+
+msgid "On with game detection message"
+msgstr ""
+
+msgid "JOYSTICK ANALOG DEADZONE"
+msgstr ""
+
+msgid "Set the deadzone of the joystick analog sticks"
+msgstr ""
+
+msgid "JOYSTICK TIMED INTERVAL"
+msgstr ""
+
+msgid "Enable timed intervals for joystick axes if drifts"
+msgstr ""
+
+msgid "Select Keyboard, Joysticks or Gravis GamePad mode"
+msgstr ""
+
+msgid "Gravis GamePad (D-pad + 4 Btns)"
+msgstr ""
+
+msgid "Generic Keyboard Binds"
+msgstr ""
+
+msgid "Keyboard + Mouse (Left An.)"
+msgstr ""
+
+msgid "Keyboard + Mouse (Right An.)"
+msgstr ""
+
+msgid "1st Joystick (2 Axes, 2 Btns)"
+msgstr ""
+
+msgid "Flight Stick (3 Axes, 4 Btns, 1 Hat)"
+msgstr ""
+
+msgid "Both Joysticks (4 Axes, 4 Btns)"
+msgstr ""
+
+msgid "Custom Keyboard Binds (best for Pad2Key)"
+msgstr ""
+
+msgid "2nd Joystick (2 Axes, 2 Btns)"
+msgstr ""
+
+msgid "SHOW BIOS BOOTLOGO"
+msgstr ""
+
+msgid "Show BIOS animation when starting content"
+msgstr ""
+
+msgid "GPU SOFTWARE RENDERING"
+msgstr ""
+
+msgid "Force use of software rendering"
+msgstr ""
+
+msgid "1x(native)"
+msgstr ""
+
+msgid "3x/720p"
+msgstr ""
+
+msgid "5x/1080p"
+msgstr ""
+
+msgid "6x/1440p"
+msgstr ""
+
+msgid "ANTI-ALIASING (MSAA/SSAA)"
+msgstr ""
+
+msgid "2x MSAA"
+msgstr ""
+
+msgid "4x MSAA"
+msgstr ""
+
+msgid "8x MSAA"
+msgstr ""
+
+msgid "16x MSAA"
+msgstr ""
+
+msgid "32x MSAA"
+msgstr ""
+
+msgid "2x SSAA"
+msgstr ""
+
+msgid "4x SSAA"
+msgstr ""
+
+msgid "8x SSAA"
+msgstr ""
+
+msgid "16x SSAA"
+msgstr ""
+
+msgid "32x SSAA"
+msgstr ""
+
+msgid "TEXTURE FILTERING"
+msgstr ""
+
+msgid "Nearest"
+msgstr ""
+
+msgid "Bilinear"
+msgstr ""
+
+msgid "JINC2"
+msgstr ""
+
+msgid "xBR"
+msgstr ""
+
+msgid "WIDESCREEN HACK"
+msgstr ""
+
+msgid "You must use a 16/9 RATIO and disable BEZEL"
+msgstr ""
+
+msgid "CROP MODE"
+msgstr ""
+
+msgid "Changes how much of the image is cropped"
+msgstr ""
+
+msgid "Only Overscan Area"
+msgstr ""
+
+msgid "All Borders"
+msgstr ""
+
+msgid "Use DualShock type for games with Rumble mode"
+msgstr ""
+
+msgid "Digital Controller"
+msgstr ""
+
+msgid "Analog Controller (DualShock)"
+msgstr ""
+
+msgid "Namco GunCon"
+msgstr ""
+
+msgid "PlayStation Mouse"
+msgstr ""
+
+msgid "NeGcon"
+msgstr ""
+
+msgid "Analog Stick"
+msgstr ""
+
+msgid "CPU CLOCK"
+msgstr ""
+
+msgid "Can fix native system slowdowns in some games"
+msgstr ""
+
+msgid "No skipping"
+msgstr ""
+
+msgid "Skip rendering of 1 frames out of 2"
+msgstr ""
+
+msgid "Skip rendering of 2 frames out of 3"
+msgstr ""
+
+msgid "Skip rendering of 3 frames out of 4"
+msgstr ""
+
+msgid "Skip rendering of 4 frames out of 5"
+msgstr ""
+
+msgid "CROSSHAIR (LIGHTGUN)"
+msgstr ""
+
+msgid "Show crosshair if playing with a lightgun device"
+msgstr ""
+
+msgid "NEOGEO MODE"
+msgstr ""
+
+msgid "Load appropriate Bios depending on your choice"
+msgstr ""
+
+msgid "Console AES World"
+msgstr ""
+
+msgid "Console AES Japan"
+msgstr ""
+
+msgid "Arcade MVS Europe"
+msgstr ""
+
+msgid "Arcade MVS USA"
+msgstr ""
+
+msgid "Arcade MVS Japan"
+msgstr ""
+
+msgid "Arcade Universe BIOS (Cheats)"
+msgstr ""
+
+msgid "MEMORY CARD MODE"
+msgstr ""
+
+msgid "Change the behavior for the memory card"
+msgstr ""
+
+msgid "Shared"
+msgstr ""
+
+msgid "Per-game"
+msgstr ""
+
+msgid "Removes the 8-sprites-per-scanline hardware limit"
+msgstr ""
+
+msgid "CROP OVERSCAN"
+msgstr ""
+
+msgid "Crops out video edge hidden under bezel of analog TV"
+msgstr ""
+
+msgid "Horizontal"
+msgstr ""
+
+msgid "Vertical"
+msgstr ""
+
+msgid "Both"
+msgstr ""
+
+msgid "COLOR PALETTE"
+msgstr ""
+
+msgid "Choose which color palette is going to be used"
+msgstr ""
+
+msgid "asqrealc"
+msgstr ""
+
+msgid "nintendo-vc"
+msgstr ""
+
+msgid "rgb"
+msgstr ""
+
+msgid "yuv-v3"
+msgstr ""
+
+msgid "unsaturated-final"
+msgstr ""
+
+msgid "sony-cxa2025as-us"
+msgstr ""
+
+msgid "pal"
+msgstr ""
+
+msgid "bmf-final2"
+msgstr ""
+
+msgid "bmf-final3"
+msgstr ""
+
+msgid "smooth-fbx"
+msgstr ""
+
+msgid "composite-direct-fbx"
+msgstr ""
+
+msgid "pvm-style-d93-fbx"
+msgstr ""
+
+msgid "ntsc-hardware-fbx"
+msgstr ""
+
+msgid "nes-classic-fbx-fs"
+msgstr ""
+
+msgid "nescap"
+msgstr ""
+
+msgid "wavebeam"
+msgstr ""
+
+msgid "custom"
+msgstr ""
+
+msgid "Enable blargg NTSC video filters"
+msgstr ""
+
+msgid "Composite (color bleeding + artifacts)"
+msgstr ""
+
+msgid "SVideo (color bleeding only)"
+msgstr ""
+
+msgid "RGB (crisp image)"
+msgstr ""
+
+msgid "SOUND QUALITY (HIGHER DEVICES)"
+msgstr ""
+
+msgid "Increase sound quality for games using expansion audio"
+msgstr ""
+
+msgid "PPU OVERCLOCKING"
+msgstr ""
+
+msgid "Minimize ingame slowdowns of some games (Contra Force)"
+msgstr ""
+
+msgid "disabled"
+msgstr ""
+
+msgid "2x-Postrender"
+msgstr ""
+
+msgid "2x-VBlank"
+msgstr ""
+
+msgid "Select NES Gamepad or Gun (must use a mouse)"
+msgstr ""
+
+msgid "NES Gamepad"
+msgstr ""
+
+msgid "NES Zapper"
+msgstr ""
+
+msgid "Select NES Gamepad, Paddle or Gun (must use a mouse)"
+msgstr ""
+
+msgid "Arkanoid paddle"
+msgstr ""
+
+msgid "SYNCHRONOUS RENDERING"
+msgstr ""
+
+msgid "Wait for the GPU to render frames instead of skipping"
+msgstr ""
+
+msgid "TEXTURE MIP-MAPPING (BLUR)"
+msgstr ""
+
+msgid "ANISOTROPIC FILTERING"
+msgstr ""
+
+msgid "Enhance the quality of distant perspective textures"
+msgstr ""
+
+msgid "Upscaling 2D pixel art graphics (2D Games Only)"
+msgstr ""
+
+msgid "RENDER TO TEXTURE UPSCALING"
+msgstr ""
+
+msgid "Upscaling textures resolution on 3D objetcs"
+msgstr ""
+
+msgid "FRAME SKIP"
+msgstr ""
+
+msgid "FORCE WINDOWS CE MODE"
+msgstr ""
+
+msgid "Enable full MMU emulation for Windows CE games"
+msgstr ""
+
+msgid "WIDESCREEN CHEAT (PRIORITY)"
+msgstr ""
+
+msgid "Select Gamepad, Keyboard, Mouse or Light Gun"
+msgstr ""
+
+msgid "Gamepad"
+msgstr ""
+
+msgid "Keyboard"
+msgstr ""
+
+msgid "Mouse"
+msgstr ""
+
+msgid "Light Gun"
+msgstr ""
+
+msgid "CONTROLLER 3 TYPE"
+msgstr ""
+
+msgid "CONTROLLER 4 TYPE"
+msgstr ""
+
+msgid "SCREEN ORIENTATION"
+msgstr ""
+
+msgid "Rotate screen for some arcade games"
+msgstr ""
+
+msgid "ZOOM (HIDE BORDER)"
+msgstr ""
+
+msgid "Make the game fill the entire screen area"
+msgstr ""
+
+msgid "GHOSTING EFFECT"
+msgstr ""
+
+msgid "Simulate LCD ghosting effects"
+msgstr ""
+
+msgid "Simple (Accurate)"
+msgstr ""
+
+msgid "Simple (Fast)"
+msgstr ""
+
+msgid "LCD Ghosting (Accurate)"
+msgstr ""
+
+msgid "LCD Ghosting (Fast)"
+msgstr ""
+
+msgid "COLOR CORRECTION"
+msgstr ""
+
+msgid "Adjusts output colors to imitate real hardware"
+msgstr ""
+
+msgid "Set the Game Boy palettes to use"
+msgstr ""
+
+msgid "GB - Smart Coloring"
+msgstr ""
+
+msgid "GB - DMG"
+msgstr ""
+
+msgid "GB - Light"
+msgstr ""
+
+msgid "GB - Pocket"
+msgstr ""
+
+msgid "GB - Black and White"
+msgstr ""
+
+msgid "GBC - Blue"
+msgstr ""
+
+msgid "GBC - Brown"
+msgstr ""
+
+msgid "GBC - Dark Blue"
+msgstr ""
+
+msgid "GBC - Dark Brown"
+msgstr ""
+
+msgid "GBC - Dark Green"
+msgstr ""
+
+msgid "GBC - Grayscale"
+msgstr ""
+
+msgid "GBC - Green"
+msgstr ""
+
+msgid "GBC - Inverted"
+msgstr ""
+
+msgid "GBC - Orange"
+msgstr ""
+
+msgid "GBC - Pastel Mix"
+msgstr ""
+
+msgid "GBC - Red"
+msgstr ""
+
+msgid "GBC - Yellow"
+msgstr ""
+
+msgid "SGB - 1A"
+msgstr ""
+
+msgid "SGB - 1B"
+msgstr ""
+
+msgid "SGB - 1C"
+msgstr ""
+
+msgid "SGB - 1D"
+msgstr ""
+
+msgid "SGB - 1E"
+msgstr ""
+
+msgid "SGB - 1F"
+msgstr ""
+
+msgid "SGB - 1G"
+msgstr ""
+
+msgid "SGB - 1H"
+msgstr ""
+
+msgid "SGB - 2A"
+msgstr ""
+
+msgid "SGB - 2B"
+msgstr ""
+
+msgid "SGB - 2C"
+msgstr ""
+
+msgid "SGB - 2D"
+msgstr ""
+
+msgid "SGB - 2E"
+msgstr ""
+
+msgid "SGB - 2F"
+msgstr ""
+
+msgid "SGB - 2G"
+msgstr ""
+
+msgid "SGB - 2H"
+msgstr ""
+
+msgid "SGB - 3A"
+msgstr ""
+
+msgid "SGB - 3B"
+msgstr ""
+
+msgid "SGB - 3C"
+msgstr ""
+
+msgid "SGB - 3D"
+msgstr ""
+
+msgid "SGB - 3E"
+msgstr ""
+
+msgid "SGB - 3F"
+msgstr ""
+
+msgid "SGB - 3G"
+msgstr ""
+
+msgid "SGB - 3H"
+msgstr ""
+
+msgid "SGB - 4A"
+msgstr ""
+
+msgid "SGB - 4B"
+msgstr ""
+
+msgid "SGB - 4C"
+msgstr ""
+
+msgid "SGB - 4D"
+msgstr ""
+
+msgid "SGB - 4E"
+msgstr ""
+
+msgid "SGB - 4F"
+msgstr ""
+
+msgid "SGB - 4G"
+msgstr ""
+
+msgid "SGB - 4H"
+msgstr ""
+
+msgid "Special 1"
+msgstr ""
+
+msgid "Special 2"
+msgstr ""
+
+msgid "Special 3"
+msgstr ""
+
+msgid "Special 4 (TI-83 Legacy)"
+msgstr ""
+
+msgid "TWB64 - Pack 1"
+msgstr ""
+
+msgid "TWB64 - Pack 2"
+msgstr ""
+
+msgid "Reduce sprite flickering when enabled"
+msgstr ""
+
+msgid "SHOW LIGHTGUN CROSSHAIR"
+msgstr ""
+
+msgid "Shows crosshairs for Menacer and Justifiers devices"
+msgstr ""
+
+msgid "Select 3 or 6 button controller, mouse or Multitap"
+msgstr ""
+
+msgid "Joypad Auto"
+msgstr ""
+
+msgid "Joypad 3 Button"
+msgstr ""
+
+msgid "Joypad 6 Button"
+msgstr ""
+
+msgid "Joypad 3 Button + 4-WayPlay"
+msgstr ""
+
+msgid "Joypad 6 Button + 4-WayPlay"
+msgstr ""
+
+msgid "Joypad 3 Button + Teamplayer"
+msgstr ""
+
+msgid "Joypad 6 Button + Teamplayer"
+msgstr ""
+
+msgid "Select controller, Multitap, mouse or Gun"
+msgstr ""
+
+msgid "Menacer Light Gun"
+msgstr ""
+
+msgid "Konami Justifiers"
+msgstr ""
+
+msgid "FM CHIP (YM2413)"
+msgstr ""
+
+msgid "Enhanced sound output support for compatible games"
+msgstr ""
+
+msgid "Shows crosshairs for Light Phaser device"
+msgstr ""
+
+msgid "Select 2 button controller, Lightgun or Multitap"
+msgstr ""
+
+msgid "Joypad 2 Button"
+msgstr ""
+
+msgid "Joypad 2 Button + Master Tap"
+msgstr ""
+
+msgid "Light Phaser"
+msgstr ""
+
+msgid "Paddle Control"
+msgstr ""
+
+msgid "LCD GHOSTING FILTER"
+msgstr ""
+
+msgid "EXTENDED SCREEN"
+msgstr ""
+
+msgid "Extend the game screen area like on a Master System"
+msgstr ""
+
+msgid "CPU OVERCLOCK"
+msgstr ""
+
+msgid "Minimize in-game slowdowns of some games"
+msgstr ""
+
+msgid "Increase the video resolution"
+msgstr ""
+
+msgid "CONTROL MAPPING"
+msgstr ""
+
+msgid "Choose from Analog or Digital controller"
+msgstr ""
+
+msgid "Analog"
+msgstr ""
+
+msgid "Digital"
+msgstr ""
+
+msgid "INPUT INTERFACE"
+msgstr ""
+
+msgid "Use input directly sends by keyboard to the core"
+msgstr ""
+
+msgid "Retropad"
+msgstr ""
+
+msgid "Simultaneous"
+msgstr ""
+
+msgid "TATE MODE"
+msgstr ""
+
+msgid "Rotating display to vertical mode rendering"
+msgstr ""
+
+msgid "Manually specify your choice of Neo Geo BIOS"
+msgstr ""
+
+msgid "Arcade Universe BIOS 4.0 (Cheats)"
+msgstr ""
+
+msgid "Arcade Universe BIOS 3.3 (Cheats)"
+msgstr ""
+
+msgid "OVERCLOCKING (CPU HEAVY)"
+msgstr ""
+
+msgid "Can eliminate slowdown and improve frame rates"
+msgstr ""
+
+msgid "100%(native)"
+msgstr ""
+
+msgid "FRAME DUPING (SPEED UP)"
+msgstr ""
+
+msgid "Small performance increase (may lose animation frames)"
+msgstr ""
+
+msgid "CPU DYNAREC (SPEED UP)"
+msgstr ""
+
+msgid "Much faster than interpreter (but may have bugs)"
+msgstr ""
+
+msgid "Disabled (Beatle Interpreter)"
+msgstr ""
+
+msgid "Max Performance"
+msgstr ""
+
+msgid "Cycle Timing Check"
+msgstr ""
+
+msgid "Lightrec Interpreter"
+msgstr ""
+
+msgid "DYNAREC CODE INVALIDATION"
+msgstr ""
+
+msgid "Some games require DMA Only (for CPU Dynarec)"
+msgstr ""
+
+msgid "Full"
+msgstr "Complet"
+
+msgid "DMA Only (Slightly Faster)"
+msgstr ""
+
+msgid "MULTITAP"
+msgstr ""
+
+msgid "Allows 5 or 8 max players support in games"
+msgstr ""
+
+msgid "Port 1"
+msgstr ""
+
+msgid "Port 2"
+msgstr ""
+
+msgid "Port 1+2"
+msgstr ""
+
+msgid "Analog Controller"
+msgstr ""
+
+msgid "DualShock Controller"
+msgstr ""
+
+msgid "Analog Joystick (Flystick)"
+msgstr ""
+
+msgid "Remove the 16-sprites-per-scanline hardware limit"
+msgstr ""
+
+msgid "SUPER GB BORDERS"
+msgstr ""
+
+msgid "Only for Super Game Boy enhanced games"
+msgstr ""
+
+msgid "Adjusts output colors to feel real hardware"
+msgstr ""
+
+msgid "SOLAR SENSOR LEVEL"
+msgstr ""
+
+msgid "Only for games that employed it (for Boktai)"
+msgstr ""
+
+msgid "TEAM MODE"
+msgstr ""
+
+msgid "Choose the Team mode color"
+msgstr ""
+
+msgid "Selfie"
+msgstr ""
+
+msgid "Color"
+msgstr ""
+
+msgid "Sex"
+msgstr ""
+
+msgid "Skynet"
+msgstr ""
+
+msgid "MONSTERS"
+msgstr ""
+
+msgid "Enable or disable monsters on battle"
+msgstr ""
+
+msgid "VIDEO 4:3 RESOLUTION"
+msgstr ""
+
+msgid "VIDEO 16:9 RESOLUTION"
+msgstr ""
+
+msgid "BILINEAR FILTERING"
+msgstr ""
+
+msgid "Filter to gradually switch colors"
+msgstr ""
+
+msgid "standard"
+msgstr ""
+
+msgid "3 point"
+msgstr ""
+
+msgid "Smooth out jagged edges on 3D objects polygons"
+msgstr ""
+
+msgid "Smooth 1"
+msgstr ""
+
+msgid "Smooth 2"
+msgstr ""
+
+msgid "Smooth 3"
+msgstr ""
+
+msgid "Smooth 4"
+msgstr ""
+
+msgid "Sharp 1"
+msgstr ""
+
+msgid "Sharp 2"
+msgstr ""
+
+msgid "TEXTURE ENHANCEMENT (XBRZ)"
+msgstr ""
+
+msgid "Scales up a nearest-neighbor version of the texture"
+msgstr ""
+
+msgid "As Is"
+msgstr ""
+
+msgid "X2"
+msgstr ""
+
+msgid "X2SAI"
+msgstr ""
+
+msgid "HQ2X"
+msgstr ""
+
+msgid "HQ2XS"
+msgstr ""
+
+msgid "LQ2X"
+msgstr ""
+
+msgid "LQ2XS"
+msgstr ""
+
+msgid "HQ4X"
+msgstr ""
+
+msgid "2xBRZ"
+msgstr ""
+
+msgid "3xBRZ"
+msgstr ""
+
+msgid "4xBRZ"
+msgstr ""
+
+msgid "5xBRZ"
+msgstr ""
+
+msgid "6xBRZ"
+msgstr ""
+
+msgid "CONTROLLER PAK 1"
+msgstr ""
+
+msgid "Select player 1 Memory or Rumble pack"
+msgstr ""
+
+msgid "memory"
+msgstr ""
+
+msgid "rumble"
+msgstr ""
+
+msgid "CONTROLLER PAK 2"
+msgstr ""
+
+msgid "CONTROLLER PAK 3"
+msgstr ""
+
+msgid "CONTROLLER PAK 4"
+msgstr ""
+
+msgid "CONSOLE REGION"
+msgstr ""
+
+msgid "Change language of some games"
+msgstr ""
+
+msgid "Japan"
+msgstr ""
+
+msgid "USA"
+msgstr ""
+
+msgid "Europe"
+msgstr ""
+
+msgid "BIOS SELECT"
+msgstr ""
+
+msgid "CD Universe Bios not include cheats"
+msgstr ""
+
+msgid "CDZ"
+msgstr ""
+
+msgid "CDZ (MAME)"
+msgstr ""
+
+msgid "Universe 3.2"
+msgstr ""
+
+msgid "PER-GAME SAVES"
+msgstr ""
+
+msgid "Use one save file per-game"
+msgstr ""
+
+msgid "consumer"
+msgstr ""
+
+msgid "cxa2025as"
+msgstr ""
+
+msgid "canonical"
+msgstr ""
+
+msgid "alternative"
+msgstr ""
+
+msgid "4 PLAYER ADAPTER"
+msgstr ""
+
+msgid "Manually select a 4 Player Adapter for some games"
+msgstr ""
+
+msgid "NTSC (NES)"
+msgstr ""
+
+msgid "Famicom (FDS)"
+msgstr ""
+
+msgid "PC MODEL"
+msgstr ""
+
+msgid "Selects the correct PC model being emulated"
+msgstr ""
+
+msgid "PC-286"
+msgstr ""
+
+msgid "PC-9801VM"
+msgstr ""
+
+msgid "PC-9801VX"
+msgstr ""
+
+msgid "CPU FEATURE"
+msgstr ""
+
+msgid "Select the processor model"
+msgstr ""
+
+msgid "Intel 80386"
+msgstr ""
+
+msgid "Intel i486DX"
+msgstr ""
+
+msgid "Intel Pentium (MMX)"
+msgstr ""
+
+msgid "Intel Pentium 2"
+msgstr ""
+
+msgid "Intel Pentium 3"
+msgstr ""
+
+msgid "Intel Pentium 4"
+msgstr ""
+
+msgid "Neko Processor II"
+msgstr ""
+
+msgid "CPU CLOCK MULTIPLIER"
+msgstr ""
+
+msgid "Recommended to use somewhere between a 4x and 8x"
+msgstr ""
+
+msgid "Select memory required by game, 13 Mo recommanded"
+msgstr ""
+
+msgid "1 Mo"
+msgstr ""
+
+msgid "3 Mo"
+msgstr ""
+
+msgid "7 Mo"
+msgstr ""
+
+msgid "11 Mo"
+msgstr ""
+
+msgid "13 Mo"
+msgstr ""
+
+msgid "16 Mo"
+msgstr ""
+
+msgid "32 Mo"
+msgstr ""
+
+msgid "64 Mo"
+msgstr ""
+
+msgid "120 Mo"
+msgstr ""
+
+msgid "230 Mo"
+msgstr ""
+
+msgid "512 Mo"
+msgstr ""
+
+msgid "1024 Mo"
+msgstr ""
+
+msgid "GDC"
+msgstr ""
+
+msgid "Graphic Display Controller model"
+msgstr ""
+
+msgid "uPD7220"
+msgstr ""
+
+msgid "uPD72020"
+msgstr ""
+
+msgid "REMOVE SCANLINES"
+msgstr ""
+
+msgid ""
+"Off will show black scanlines in older games (graphically designed to use "
+"scanlines)"
+msgstr ""
+
+msgid "Full 255 lines"
+msgstr ""
+
+msgid "REAL PALETTES"
+msgstr ""
+
+msgid "Some games only working correctly with this (Apros)"
+msgstr ""
+
+msgid "SOUND BOARD"
+msgstr ""
+
+msgid "Choose 26K for old games and 86K for newer games"
+msgstr ""
+
+msgid "PC9801-14"
+msgstr ""
+
+msgid "PC9801-26K"
+msgstr ""
+
+msgid "PC9801-26K + 86"
+msgstr ""
+
+msgid "PC9801-86"
+msgstr ""
+
+msgid "PC9801-86 + 118(B460)"
+msgstr ""
+
+msgid "PC9801-86 + 118(B460) + Sound Blaster 16"
+msgstr ""
+
+msgid "PC9801-86 + Mate-X PCM(B460)"
+msgstr ""
+
+msgid "PC9801-86 + Mate-X PCM(B460) + Sound Blaster 16"
+msgstr ""
+
+msgid "PC9801-86 + Chibi-oto"
+msgstr ""
+
+msgid "PC9801-86 + Speek Board"
+msgstr ""
+
+msgid "PC9801-86 + Sound Blaster 16"
+msgstr ""
+
+msgid "PC9801-118"
+msgstr ""
+
+msgid "PC9801-118 + Sound Blaster 16"
+msgstr ""
+
+msgid "AMD-98"
+msgstr ""
+
+msgid "Chibi-oto"
+msgstr ""
+
+msgid "Sound Blaster 16"
+msgstr ""
+
+msgid "Speak Board"
+msgstr ""
+
+msgid "Spark Board"
+msgstr ""
+
+msgid "Sound Orchestra"
+msgstr ""
+
+msgid "Sound Orchestra-V"
+msgstr ""
+
+msgid "Little Orchestra L"
+msgstr ""
+
+msgid "Multimedia Orchestra"
+msgstr ""
+
+msgid "Mate-X PCM(B460)"
+msgstr ""
+
+msgid "Mate-X PCM + Sound Blaster 16"
+msgstr ""
+
+msgid "Otomi-chanx2"
+msgstr ""
+
+msgid "Otomi-chanx2 + 86"
+msgstr ""
+
+msgid "WaveStar"
+msgstr ""
+
+msgid "JAST SOUND"
+msgstr ""
+
+msgid "To have music and not only sound in games (Owl-Zoo)"
+msgstr ""
+
+msgid "Joypad D-pad Mapping"
+msgstr ""
+
+msgid "Emulate a keyboard/mouse/joypad on your gamepad"
+msgstr ""
+
+msgid "Arrows"
+msgstr ""
+
+msgid "Arrows 3button"
+msgstr ""
+
+msgid "Keypad"
+msgstr ""
+
+msgid "Keypad 3button"
+msgstr ""
+
+msgid "Manual keyboard"
+msgstr ""
+
+msgid "Atari Joypad"
+msgstr ""
+
+msgid "EMULATED HARDWARE"
+msgstr ""
+
+msgid "Choose what Odyssey/Videopac system to emulate"
+msgstr ""
+
+msgid "Odyssey 2 (NTSC)"
+msgstr ""
+
+msgid "Videopac G7000 (European)"
+msgstr ""
+
+msgid "Videopac+ G7400 (European)"
+msgstr ""
+
+msgid "Videopac+ G7400 (France)"
+msgstr ""
+
+msgid "To force 60hz or 50hz if the auto detection fail"
+msgstr ""
+
+msgid "SWAP GAMEPADS"
+msgstr ""
+
+msgid "Some games accept player 1 input from controller 2"
+msgstr ""
+
+msgid "Remove the border around the edges of the screen"
+msgstr ""
+
+msgid "Simulate CRT phosphor ghosting effects"
+msgstr ""
+
+msgid "Simple"
+msgstr ""
+
+msgid "Ghosting (65%)"
+msgstr ""
+
+msgid "Ghosting (75%)"
+msgstr ""
+
+msgid "Ghosting (85%)"
+msgstr ""
+
+msgid "Ghosting (95%)"
+msgstr ""
+
+msgid "AUDIO FILTER"
+msgstr ""
+
+msgid "Soften the hash sound effect from some games"
+msgstr ""
+
+msgid "Improve the fidelity of 3D models (unaffect 2D)"
+msgstr ""
+
+msgid "Improve frame rates in many games (like NFS)"
+msgstr ""
+
+msgid "1.0x (12.50Mhz)"
+msgstr ""
+
+msgid "1.1x (13.75Mhz)"
+msgstr ""
+
+msgid "1.2x (15.00Mhz)"
+msgstr ""
+
+msgid "1.5x (18.75Mhz)"
+msgstr ""
+
+msgid "1.6x (20.00Mhz)"
+msgstr ""
+
+msgid "1.8x (22.50Mhz)"
+msgstr ""
+
+msgid "2.0x (25.00Mhz)"
+msgstr ""
+
+msgid "ACTIVE INPUT DEVICES FIX"
+msgstr ""
+
+msgid "Fixing a possible bug with controller detection"
+msgstr ""
+
+msgid "ADDITIONAL GAME FIXES"
+msgstr ""
+
+msgid "Enable these options to fix them games"
+msgstr ""
+
+msgid "Alone in the Dark"
+msgstr ""
+
+msgid "Crash'n Burn"
+msgstr ""
+
+msgid "Dinopark Tycoon"
+msgstr ""
+
+msgid "Microcosm"
+msgstr ""
+
+msgid "WIDESCREEN"
+msgstr ""
+
+msgid "Break aspect ratio and strech image"
+msgstr ""
+
+msgid "Smooths out textures on 3D objetcs"
+msgstr ""
+
+msgid "Automatic"
+msgstr ""
+
+msgid "N64 3-point"
+msgstr ""
+
+msgid "FRAMERATE"
+msgstr ""
+
+msgid "Fullspeed can break some games"
+msgstr ""
+
+msgid "fullspeed"
+msgstr ""
+
+msgid "original"
+msgstr ""
+
+msgid "Select PCE Joypad or Mouse"
+msgstr ""
+
+msgid "PCE Joypad"
+msgstr ""
+
+msgid "PCE Mouse"
+msgstr ""
+
+msgid "Show the BIOS animation when starting (breaks some games)"
+msgstr ""
+
+msgid "ENHANCED RESOLUTION (SLOWER)"
+msgstr ""
+
+msgid "(32-bit only) Double the resolution (speed hack causes glitches)"
+msgstr ""
+
+msgid "On (Speed hack)"
+msgstr ""
+
+msgid "Port1"
+msgstr ""
+
+msgid "Port2"
+msgstr ""
+
+msgid "Port1+2"
+msgstr ""
+
+msgid "Enable this option to fix the game"
+msgstr ""
+
+msgid "Capcom VS games Expand Screen Width"
+msgstr ""
+
+msgid "Chrono Chross Odd/Even Bit Hack"
+msgstr ""
+
+msgid "Dark Forces Flat Tex Triangles Fix"
+msgstr ""
+
+msgid "Diablo Music Fix"
+msgstr ""
+
+msgid "Lunar Ignore Brightness Color Fix"
+msgstr ""
+
+msgid "InuYasha Sengoku Battle Fix"
+msgstr ""
+
+msgid "Pandemonium 2 Lazy Screen Update Fix"
+msgstr ""
+
+msgid "Parasite Eve 2/Vandal Hearts 1&2 Fix"
+msgstr ""
+
+msgid "Select 3 or 6 button controller"
+msgstr ""
+
+msgid "LCD FILTER"
+msgstr ""
+
+msgid "Produces a clean LCD effect"
+msgstr ""
+
+msgid "LCD GHOSTING EFFECTS"
+msgstr ""
+
+msgid "Simulate the LCD ghosting effect"
+msgstr ""
+
+msgid "Green - GameKing"
+msgstr ""
+
+msgid "VB - Virtual Boy"
+msgstr ""
+
+msgid "Potator - Orangish - Amber"
+msgstr ""
+
+msgid "Potator - Green"
+msgstr ""
+
+msgid "Potator - Blue"
+msgstr ""
+
+msgid "Potator - Green - BGB"
+msgstr ""
+
+msgid "Potator - Green Wataroo"
+msgstr ""
+
+msgid "Brownish - Travel Wood"
+msgstr ""
+
+msgid "Blue - Bubbles Blue"
+msgstr ""
+
+msgid "Blue - Game Master"
+msgstr ""
+
+msgid "Blue - Shiny Sky Blue"
+msgstr ""
+
+msgid "Blue - Slime Blue"
+msgstr ""
+
+msgid "Gold - Golden Wild"
+msgstr ""
+
+msgid "Gold - Labo Fawn"
+msgstr ""
+
+msgid "Gold - Million Live Gold"
+msgstr ""
+
+msgid "Gold - Odyssey Gold"
+msgstr ""
+
+msgid "Grey - Greyscale"
+msgstr ""
+
+msgid "Grey - Digivice"
+msgstr ""
+
+msgid "Grey - Microvision"
+msgstr ""
+
+msgid "Green - Buttercup Green"
+msgstr ""
+
+msgid "Green - Game.com"
+msgstr ""
+
+msgid "Green - Greenscale"
+msgstr ""
+
+msgid "Green - Legendary Super Saiyan"
+msgstr ""
+
+msgid "Green - TI-83"
+msgstr ""
+
+msgid "Orange - Hokage Orange"
+msgstr ""
+
+msgid "Pink - Blossom Pink"
+msgstr ""
+
+msgid "Simulation of LCD ghosting effects"
+msgstr ""
+
+msgid "1 Frame"
+msgstr ""
+
+msgid "2 Frames"
+msgstr ""
+
+msgid "3 Frames"
+msgstr ""
+
+msgid "4 Frames"
+msgstr ""
+
+msgid "5 Frames"
+msgstr ""
+
+msgid "6 Frames"
+msgstr ""
+
+msgid "7 Frames"
+msgstr ""
+
+msgid "8 Frames"
+msgstr ""
+
+msgid "CONTROLLER TYPE"
+msgstr ""
+
+msgid "Select controller type"
+msgstr ""
+
+msgid "Gamepad Classic"
+msgstr ""
+
+msgid "Gamepad Modern"
+msgstr ""
+
+msgid "AMIGA MODEL"
+msgstr ""
+
+msgid "Force a specific model and prevent tags detection"
+msgstr ""
+
+msgid "Autodetect (by game name tag)"
+msgstr ""
+
+msgid "A500 (512KB Chip + 512KB Slow)"
+msgstr ""
+
+msgid "A500+ (1MB Chip)"
+msgstr ""
+
+msgid "A600 (2MB Chip + 8MB Fast)"
+msgstr ""
+
+msgid "A1200 (2MB Chip + 8MB Fast)"
+msgstr ""
+
+msgid "A4000/040 (2MB Chip + 8MB Fast)"
+msgstr ""
+
+msgid "CDTV (1MB Chip)"
+msgstr ""
+
+msgid "CD32 Default (2MB Chip)"
+msgstr ""
+
+msgid "CD32 (2MB Chip + 8MB Fast)"
+msgstr ""
+
+msgid "CPU COMPATIBILITY"
+msgstr ""
+
+msgid "Help games which are too quick or that have bugs"
+msgstr ""
+
+msgid "Normal"
+msgstr ""
+
+msgid "More compatible"
+msgstr ""
+
+msgid "Cycle-exact"
+msgstr ""
+
+msgid "CPU MULTIPLIER (OVERCLOCK)"
+msgstr ""
+
+msgid "Works with 'Cycle-exact' mode and for a few games"
+msgstr ""
+
+msgid "Default by model"
+msgstr ""
+
+msgid " 3.54 MHz"
+msgstr ""
+
+msgid " 7.09 MHz (A500 speed)"
+msgstr ""
+
+msgid "14.18 MHz (A1200 speed)"
+msgstr ""
+
+msgid "28.37 MHz"
+msgstr ""
+
+msgid "35.46 MHz"
+msgstr ""
+
+msgid "42.56 MHz"
+msgstr ""
+
+msgid "56.75 MHz"
+msgstr ""
+
+msgid "CPU SPEED (OVERCLOCK)"
+msgstr ""
+
+msgid "Ignored with 'Cycle-exact'"
+msgstr ""
+
+msgid "-90%"
+msgstr ""
+
+msgid "-80%"
+msgstr ""
+
+msgid "-70%"
+msgstr ""
+
+msgid "-60%"
+msgstr ""
+
+msgid "-50%"
+msgstr ""
+
+msgid "-40%"
+msgstr ""
+
+msgid "-30%"
+msgstr ""
+
+msgid "-20%"
+msgstr ""
+
+msgid "-10%"
+msgstr ""
+
+msgid "Default"
+msgstr ""
+
+msgid "+100%"
+msgstr ""
+
+msgid "+200%"
+msgstr ""
+
+msgid "+300%"
+msgstr ""
+
+msgid "+400%"
+msgstr ""
+
+msgid "+500%"
+msgstr ""
+
+msgid "+600%"
+msgstr ""
+
+msgid "+700%"
+msgstr ""
+
+msgid "+800%"
+msgstr ""
+
+msgid "+900%"
+msgstr ""
+
+msgid "+1000%"
+msgstr ""
+
+msgid "PAL 50Hz - 288/576px"
+msgstr ""
+
+msgid "NTSC 60Hz - 240/480px"
+msgstr ""
+
+msgid "Low 360p"
+msgstr ""
+
+msgid "High 720p"
+msgstr ""
+
+msgid "Super-high 1440p"
+msgstr ""
+
+msgid "ZOOM MODE"
+msgstr ""
+
+msgid "Crops the borders to fit various host screens"
+msgstr ""
+
+msgid "Autofit screen"
+msgstr ""
+
+msgid "minimum"
+msgstr ""
+
+msgid "smaller"
+msgstr ""
+
+msgid "small"
+msgstr ""
+
+msgid "medium"
+msgstr ""
+
+msgid "large"
+msgstr ""
+
+msgid "larger"
+msgstr ""
+
+msgid "maximum"
+msgstr ""
+
+msgid "MOUSE SPEED"
+msgstr ""
+
+msgid "Affects mouse speed globally."
+msgstr ""
+
+msgid "FLOPPY TURBO SPEED"
+msgstr ""
+
+msgid "Removes loading but can add possible glitches/crashes"
+msgstr ""
+
+msgid "2P GAMEPAD MAPPING (KEYRAH)"
+msgstr ""
+
+msgid "Keypad to joyport mappings for 2 players"
+msgstr ""
+
+msgid "WHDLOAD LAUNCHER"
+msgstr ""
+
+msgid "Enable launching pre-installed WHDLoad installs"
+msgstr ""
+
+msgid "JUMP ON B"
+msgstr ""
+
+msgid "Makes second fire button press up"
+msgstr ""
+
+msgid "DISABLE EMULATOR JOYSTICK"
+msgstr ""
+
+msgid "Passes all physical keyboard events for Pad2Key"
+msgstr ""
+
+msgid "Select controller type for Amiga P1"
+msgstr ""
+
+msgid "CD32 Pad"
+msgstr ""
+
+msgid "Analog Joystick"
+msgstr ""
+
+msgid "Joystick"
+msgstr ""
+
+msgid "Select controller type for Amiga P2"
+msgstr ""
+
+msgid "BOOT ANIMATION FIRST"
+msgstr ""
+
+msgid "Inserts CD during boot animation to prevent loading fail"
+msgstr ""
+
+msgid "CD TURBO SPEED"
+msgstr ""
+
+msgid "JUMP ON A"
+msgstr ""
+
+msgid "Makes Blue button press Up"
+msgstr ""
+
+msgid "Inserts CD during boot animation prevent loading fail"
+msgstr ""
+
+msgid "Can be used to slow down games that run too fast"
+msgstr ""
+
+msgid "10Mhz"
+msgstr ""
+
+msgid "16Mhz"
+msgstr ""
+
+msgid "25Mhz"
+msgstr ""
+
+msgid "33Mhz (Overclock)"
+msgstr ""
+
+msgid "66Mhz (Overclock)"
+msgstr ""
+
+msgid "100Mhz (Overclock)"
+msgstr ""
+
+msgid "150Mhz (Overclock)"
+msgstr ""
+
+msgid "200Mhz (Overclock)"
+msgstr ""
+
+msgid "Amount of RAM used"
+msgstr ""
+
+msgid "1MB"
+msgstr ""
+
+msgid "2MB"
+msgstr ""
+
+msgid "3MB"
+msgstr ""
+
+msgid "5MB"
+msgstr ""
+
+msgid "6MB"
+msgstr ""
+
+msgid "7MB"
+msgstr ""
+
+msgid "9MB"
+msgstr ""
+
+msgid "10MB"
+msgstr ""
+
+msgid "11MB"
+msgstr ""
+
+msgid "12MB"
+msgstr ""
+
+msgid "Improve performance at the expense of smoothness"
+msgstr ""
+
+msgid "Full Frame"
+msgstr ""
+
+msgid "1/2 Frame"
+msgstr ""
+
+msgid "1/3 Frame"
+msgstr ""
+
+msgid "1/4 Frame"
+msgstr ""
+
+msgid "1/5 Frame"
+msgstr ""
+
+msgid "1/6 Frame"
+msgstr ""
+
+msgid "1/8 Frame1"
+msgstr ""
+
+msgid "16 Frame"
+msgstr ""
+
+msgid "1/32 Frame"
+msgstr ""
+
+msgid "1/60 Frame"
+msgstr ""
+
+msgid "Auto Frame Skip"
+msgstr ""
+
+msgid "TWO PLAYERS JOYPAD TYPE"
+msgstr ""
+
+msgid "Choose your Joypad type with 2 or 8 buttons"
+msgstr ""
+
+msgid "Default (2 Buttons)"
+msgstr ""
+
+msgid "Megadrive (8 Buttons)"
+msgstr ""
+
+msgid "Super Famicom (8 Buttons)"
+msgstr ""
+
+msgid "N88 BASIC V2"
+msgstr ""
+
+msgid "N88 BASIC V1H"
+msgstr ""
+
+msgid "N88 BASIC V1S"
+msgstr ""
+
+msgid "N BASIC"
+msgstr ""
+
+msgid "CPU CLOCK (OVERCLOCK)"
+msgstr ""
+
+msgid "Many games run too fast, reduces slowdown on Ys series"
+msgstr ""
+
+msgid "1 MHz (Underclock)"
+msgstr ""
+
+msgid "2 MHz (Underclock)"
+msgstr ""
+
+msgid "4 MHz (NEC uPD780)"
+msgstr ""
+
+msgid "8 MHz (NEC uPID7008)"
+msgstr ""
+
+msgid "16 MHz (Overclock)"
+msgstr ""
+
+msgid "32 MHz (Overclock)"
+msgstr ""
+
+msgid "64 MHz (Overclock)"
+msgstr ""
+
+msgid "USE PCG-8100"
+msgstr ""
+
+msgid "Emulate the PCG-8100 required for some games"
+msgstr ""
+
+msgid "ANALOG DEADZONE"
+msgstr ""
+
+msgid "Used to eliminate cursor drift/unwanted input"
+msgstr ""
+
+msgid "GAMEPAD CURSOR SPEED"
+msgstr ""
+
+msgid "For high definition (640x480) games set this to 2.0"
+msgstr ""
+
+msgid "1.0"
+msgstr ""
+
+msgid "1.5"
+msgstr ""
+
+msgid "2.0"
+msgstr ""
+
+msgid "2.5"
+msgstr ""
+
+msgid "3.0"
+msgstr ""
+
+msgid "0.25"
+msgstr ""
+
+msgid "0.5"
+msgstr ""
+
+msgid "0.75"
+msgstr ""
+
+msgid "SPEED HACK (SAFE)"
+msgstr ""
+
+msgid "Reduces the CPU requirements for low power hardware"
+msgstr ""
+
+msgid "REDUCE SPRITE FLICKERING (HACK, UNSTABLE)"
+msgstr ""
+
+msgid "Increase number of sprites that can be drawn"
+msgstr ""
+
+msgid "REDUCE SLOWDOWN (HACK, UNSTABLE)"
+msgstr ""
+
+msgid "Overclock the SNES CPU (Gradius 3, Super R-Type)"
+msgstr ""
+
+msgid "light"
+msgstr ""
+
+msgid "compatible"
+msgstr ""
+
+msgid "max"
+msgstr ""
+
+msgid "SUPER-FX OVERCLOCKING"
+msgstr ""
+
+msgid "Improve performance on slow devices or cause errors"
+msgstr ""
+
+msgid "HI-RES BLENDING"
+msgstr ""
+
+msgid "Required for some games effectc (Kirby's Dream Land)"
+msgstr ""
+
+msgid "Merge"
+msgstr ""
+
+msgid "Blur"
+msgstr ""
+
+msgid "Select SNES Gamepad or Mouse"
+msgstr ""
+
+msgid "SNES Gamepad"
+msgstr ""
+
+msgid "SNES Mouse"
+msgstr ""
+
+msgid "Select SNES Gamepad, Mouse, Multitap or Guns"
+msgstr ""
+
+msgid "SNES Multitap"
+msgstr ""
+
+msgid "Super Scope"
+msgstr ""
+
+msgid "Konami Justifier"
+msgstr ""
+
+msgid "M.A.C.S. Rifle"
+msgstr ""
+
+msgid "Select SNES Gamepad or Justifier for Player 2"
+msgstr ""
+
+msgid "Konami Justifier (P2)"
+msgstr ""
+
+msgid "Improve performance on slow devices, but can cause glitches"
+msgstr ""
+
+msgid "5 MHz (Underclock)"
+msgstr ""
+
+msgid "8 MHz (Underclock)"
+msgstr ""
+
+msgid "9 MHz (Underclock)"
+msgstr ""
+
+msgid "10 MHz (Default)"
+msgstr ""
+
+msgid "11 MHz"
+msgstr ""
+
+msgid "12 MHz"
+msgstr ""
+
+msgid "13 MHz"
+msgstr ""
+
+msgid "14 MHz"
+msgstr ""
+
+msgid "15 MHz"
+msgstr ""
+
+msgid "20 MHz"
+msgstr ""
+
+msgid "30 MHz"
+msgstr ""
+
+msgid "40 MHz"
+msgstr ""
+
+msgid "Dual Konami Justifiers"
+msgstr ""
+
+msgid "SYNC SAVE FILES"
+msgstr ""
+
+msgid "Sync 2 player saves with single player versions (default is off)"
+msgstr ""
+
+msgid "Modify framerate"
+msgstr ""
+
+msgid "10fps"
+msgstr ""
+
+msgid "15fps"
+msgstr ""
+
+msgid "20fps"
+msgstr ""
+
+msgid "25fps"
+msgstr ""
+
+msgid "30fps"
+msgstr ""
+
+msgid "40fps"
+msgstr ""
+
+msgid "50fps"
+msgstr ""
+
+msgid "60fps"
+msgstr ""
+
+msgid "75fps"
+msgstr ""
+
+msgid "90fps"
+msgstr ""
+
+msgid "100fps"
+msgstr ""
+
+msgid "120fps"
+msgstr ""
+
+msgid "144fps"
+msgstr ""
+
+msgid "155fps"
+msgstr ""
+
+msgid "160fps"
+msgstr ""
+
+msgid "RUMBLE"
+msgstr ""
+
+msgid "Enables joypad rumble (vibration)"
+msgstr ""
+
+msgid "Gamepad Classic Alt"
+msgstr ""
+
+msgid "COLOR PALETTE (2D)"
+msgstr ""
+
+msgid "Choose which color palette to use"
+msgstr ""
+
+msgid "black/white"
+msgstr ""
+
+msgid "black/blue"
+msgstr ""
+
+msgid "black/cyan"
+msgstr ""
+
+msgid "black/electric cyan"
+msgstr ""
+
+msgid "black/green"
+msgstr ""
+
+msgid "black/magenta"
+msgstr ""
+
+msgid "black/yellow"
+msgstr ""
+
+msgid "ANAGLYPH PRESET (3D)"
+msgstr ""
+
+msgid "Choose the color of your 3D glasses"
+msgstr ""
+
+msgid "red/blue"
+msgstr ""
+
+msgid "red/cyan"
+msgstr ""
+
+msgid "red/electric cyan"
+msgstr ""
+
+msgid "green/magenta"
+msgstr ""
+
+msgid "yellow/blue"
+msgstr ""
+
+msgid "original gameboy"
+msgstr ""
+
+msgid "black and white"
+msgstr ""
+
+msgid "gba sp"
+msgstr ""
+
+msgid "blue sea"
+msgstr ""
+
+msgid "dark knight"
+msgstr ""
+
+msgid "green forest"
+msgstr ""
+
+msgid "hot desert"
+msgstr ""
+
+msgid "pink dreams"
+msgstr ""
+
+msgid "weird colors"
+msgstr ""
+
+msgid "Adjusts output colors to simulate real hardware"
+msgstr ""
+
+msgid "SENSOR SENSITIVITY (GYROSCOPE)"
+msgstr ""
+
+msgid "For Gyro-enabled games (bound to left analog stick)"
+msgstr ""
+
+msgid "SENSOR SENSITIVITY (TILT)"
+msgstr ""
+
+msgid "For Gyro-enabled games (bound to right analog stick)"
+msgstr ""
+
+msgid "RESOLUTION MULTIPLIER"
+msgstr ""
+
+msgid "Resolution multipliers to smooth vectors"
+msgstr ""
+
+msgid "MODEL TYPE"
+msgstr ""
+
+msgid "Automatically switches region per file path tags"
+msgstr ""
+
+msgid "C64 PAL Automatic"
+msgstr ""
+
+msgid "C64 NTSC Automatic"
+msgstr ""
+
+msgid "C64 PAL"
+msgstr ""
+
+msgid "C64 NTSC"
+msgstr ""
+
+msgid "C64 Games System PAL"
+msgstr ""
+
+msgid "C64 Japanese NTSC"
+msgstr ""
+
+msgid "EXTERNAL PALETTE"
+msgstr ""
+
+msgid "Choose the most accurate colors"
+msgstr ""
+
+msgid "colodore"
+msgstr ""
+
+msgid "pepto-pal"
+msgstr ""
+
+msgid "pepto-ntsc"
+msgstr ""
+
+msgid "pepto-ntsc-sony"
+msgstr ""
+
+msgid "cjam"
+msgstr ""
+
+msgid "c64hq"
+msgstr ""
+
+msgid "c64s"
+msgstr ""
+
+msgid "ccs64"
+msgstr ""
+
+msgid "community-colors"
+msgstr ""
+
+msgid "deekay"
+msgstr ""
+
+msgid "frodo"
+msgstr ""
+
+msgid "godot"
+msgstr ""
+
+msgid "pc64"
+msgstr ""
+
+msgid "ptoing"
+msgstr ""
+
+msgid "vice"
+msgstr ""
+
+msgid "ASPECT RATIO"
+msgstr ""
+
+msgid "PAL 50Hz - 312/576px"
+msgstr ""
+
+msgid "NTSC 60Hz - 262/492px"
+msgstr ""
+
+msgid "CONTROLLER PORT"
+msgstr ""
+
+msgid "Most games use port 2, some use port 1"
+msgstr ""
+
+msgid "Choose what type of controller to use"
+msgstr ""
+
+msgid "Paddles"
+msgstr ""
+
+msgid "Mouse (1351)"
+msgstr ""
+
+msgid "Trackball (Atari CX-22)"
+msgstr ""
+
+msgid "Koalapad"
+msgstr ""
+
+msgid "KEYBOARD PASS-THROUGH"
+msgstr ""
+
+msgid "COMPUTER MODEL"
+msgstr ""
+
+msgid "Automatic switches region per file path tags"
+msgstr ""
+
+msgid "JOYSTICK PORT"
+msgstr ""
+
+msgid "Choose to use Joystick on port 1 or 2"
+msgstr ""
+
+msgid "FAST BLITTER (LESS COMPATIBLE)"
+msgstr ""
+
+msgid "Use the older and less compatible faster blitter"
+msgstr ""
+
+msgid "Show animation when starting (breaks some games)"
+msgstr ""
+
+msgid "DOOM RES HACK"
+msgstr ""
+
+msgid "Enable for Doom to run at its correct resolution"
+msgstr ""
+
+msgid "720p"
+msgstr ""
+
+msgid "1080p"
+msgstr ""
+
+msgid "4k"
+msgstr ""
+
+msgid "Allowing 7-12 player support in games"
+msgstr ""
+
+msgid "GRAPHICS BACKEND"
+msgstr ""
+
+msgid "Choose your graphics rendering"
+msgstr ""
+
+msgid "OpenGL"
+msgstr ""
+
+msgid "Vulkan"
+msgstr ""
+
+msgid "AUDIO LATENCY"
+msgstr ""
+
+msgid "Audio latency in milliseconds, turn it up if you hear crackles"
+msgstr ""
+
+msgid "THREADED VIDEO"
+msgstr ""
+
+msgid ""
+"Improves performance at the cost of latency and more video stuttering. Use "
+"only if full speed cannot be obtained otherwise."
+msgstr ""
+
+msgid "Increases the video resolution to Hi Resolution"
+msgstr ""
+
+msgid "ASYNC SHADER"
+msgstr ""
+
+msgid "Speedup shader compilation (Vulkan only)"
+msgstr ""
+
+msgid "To use vibration on games with Rumble mode"
+msgstr ""
+
+msgid "CONTROLLER COMBINATION"
+msgstr ""
+
+msgid "Use Pro Controller if the game asks for Shake"
+msgstr ""
+
+msgid "GamePad + 4 Pro Controller"
+msgstr ""
+
+msgid "GamePad + 4 Sideway Wiimote"
+msgstr ""
+
+msgid "5 Pro Controller"
+msgstr ""
+
+msgid "5 Sideway Wiimote"
+msgstr ""
+
+msgid "hybrid top ratio 4"
+msgstr ""
+
+msgid "hybrid bottom ratio 4"
+msgstr ""
+
+msgid "Native (400x240)"
+msgstr ""
+
+msgid "Fix the heavy screen tearing in games (CPU heavy)"
+msgstr ""
+
+msgid "FRAME LIMIT"
+msgstr ""
+
+msgid "Off will help some games, others will run too fast"
+msgstr ""
+
+msgid "DISK SHADER CACHE"
+msgstr ""
+
+msgid "Reduce stutter that happens when building shader"
+msgstr ""
+
+msgid "CUSTOM TEXTURES"
+msgstr ""
+
+msgid "Use HD Texture Pack (preloading is impossible from ES)"
+msgstr ""
+
+msgid "IS NEW 3DS"
+msgstr ""
+
+msgid "The New 3DS has a faster processor, ZL/ZR buttons and C-Stick"
+msgstr ""
+
+msgid "BILINEAR FILTER"
+msgstr ""
+
+msgid "BLEND SPRITES (SINGE)"
+msgstr ""
+
+msgid "Restore BLENDMODE outline on Singe sprites"
+msgstr ""
+
+msgid "OVERSIZE OVERLAY (SINGE)"
+msgstr ""
+
+msgid "Use with Singe HD lightgun games"
+msgstr ""
+
+msgid "INVERT AXIS"
+msgstr ""
+
+msgid "Invert joystick on flight games"
+msgstr ""
+
+msgid "WII TV MODE"
+msgstr ""
+
+msgid "Wii TV type / mode"
+msgstr ""
+
+msgid "4:3"
+msgstr ""
+
+msgid "16:9"
+msgstr ""
+
+msgid "EMULATE WIIMOTE"
+msgstr ""
+
+msgid "Use your gamepad like a vertical Wiimote in game"
+msgstr ""
+
+msgid "CUSTOMIZE WIIMOTE & GAMEPAD"
+msgstr ""
+
+msgid "Emulate a Wiimote Sideway with L2 for Shake and Nunchuk on R-stick"
+msgstr ""
+
+msgid "Classic Controller"
+msgstr ""
+
+msgid "Wiimote Sideway"
+msgstr ""
+
+msgid "Wiimote Sideway + Swing"
+msgstr ""
+
+msgid "Wiimote Sideway + Tilt"
+msgstr ""
+
+msgid "Wiimote Sideway + Nunchuk"
+msgstr ""
+
+msgid "1x native (640x528)"
+msgstr ""
+
+msgid "2x 720p (1280x1056)"
+msgstr ""
+
+msgid "3x 1080p (1920x1584)"
+msgstr ""
+
+msgid "4x 1440p (2560x2112)"
+msgstr ""
+
+msgid "6x 4K (3840x3168)"
+msgstr ""
+
+msgid "8x 5K (5120x4224)"
+msgstr ""
+
+msgid "Video graphics aspect ratio"
+msgstr ""
+
+msgid "Force 16:9"
+msgstr ""
+
+msgid "Force 4:3"
+msgstr ""
+
+msgid "Stretch to window"
+msgstr ""
+
+msgid "UBERSHADERS"
+msgstr ""
+
+msgid ""
+"Improve performance with Ubershaders (may not work well on all hardware); "
+"hybrid is preferred, \"no ubershaders\" is more compatible"
+msgstr ""
+
+msgid "No Ubershaders"
+msgstr ""
+
+msgid "Exclusive Ubershaders"
+msgstr ""
+
+msgid "Hybrid Ubershaders"
+msgstr ""
+
+msgid "Skip Drawing"
+msgstr ""
+
+msgid "PRE-CACHE SHADERS"
+msgstr ""
+
+msgid ""
+"Wait for shaders to compile completely before starting the game, can reduce "
+"micro-freezes"
+msgstr ""
+
+msgid "Off (default)"
+msgstr ""
+
+msgid "PERFORMANCE HACKS"
+msgstr ""
+
+msgid "Increase emulator performance, at the cost of accuracy/stability"
+msgstr ""
+
+msgid "USE PAD PROFILES"
+msgstr ""
+
+msgid "Search for custom configured joystick profiles"
+msgstr ""
+
+msgid "DUAL CORE MODE"
+msgstr ""
+
+msgid "Usually not much faster than single core mode"
+msgstr ""
+
+msgid "GPU SYNC"
+msgstr ""
+
+msgid "Speed hack for dual core mode to fix some glitches"
+msgstr ""
+
+msgid "ANTI-ALIASING"
+msgstr ""
+
+msgid "ANTI-ALIASING MODE"
+msgstr ""
+
+msgid "Toggle MSAA/SSAA. Depends on anti-aliasing being enabled."
+msgstr ""
+
+msgid "MSAA (default)"
+msgstr ""
+
+msgid "SSAA"
+msgstr ""
+
+msgid "HIRES TEXTURES"
+msgstr ""
+
+msgid "Use HD texture packs"
+msgstr ""
+
+msgid "You must use a 16/9 RATIO to work"
+msgstr ""
+
+msgid "ENABLE CHEATS"
+msgstr ""
+
+msgid "To use game cheats or 16/9 Aspect Ratio Fix codes"
+msgstr ""
+
+msgid "MEMORY MANAGEMENT UNIT"
+msgstr ""
+
+msgid "Allows many games to boot and work properly"
+msgstr ""
+
+msgid "FAST DISK SPEED"
+msgstr ""
+
+msgid "Speeds up disc speed to remove any loading"
+msgstr ""
+
+msgid "DUALSHOCK MOTION CONTROL"
+msgstr ""
+
+msgid "Emulate the Wii pointer with your DS4's gyroscope"
+msgstr ""
+
+msgid "MOUSE AS IR WIIMOTE"
+msgstr ""
+
+msgid "Emulate the Wiimote IR control with a mouse"
+msgstr ""
+
+msgid "Warning, this feature uses a lot of RAM & VRAM"
+msgstr ""
+
+msgid "5  sec Accurate / 250 Mo RAM + 1200 Mo VRAM"
+msgstr ""
+
+msgid "10 sec Accurate / 500 Mo RAM + 2400 Mo VRAM"
+msgstr ""
+
+msgid "15 sec / Total 135 Mo RAM (Small boards)"
+msgstr ""
+
+msgid "30 sec / Total 270 Mo RAM (Middle boards)"
+msgstr ""
+
+msgid "60 sec / 300 Mo RAM + 240 Mo VRAM"
+msgstr ""
+
+msgid "90 sec / 450 Mo RAM + 360 Mo VRAM"
+msgstr ""
+
+msgid "120 sec / 600 Mo RAM + 480 Mo VRAM"
+msgstr ""
+
+msgid "CPU EXECUTION MODE"
+msgstr ""
+
+msgid "Interpreter is the more accurate but the slowest"
+msgstr ""
+
+msgid "Recompiler (Fastest)"
+msgstr ""
+
+msgid "Cached Interpreter (Faster)"
+msgstr ""
+
+msgid "Interpreter (Slowest)"
+msgstr ""
+
+msgid "VULKAN THREADED"
+msgstr ""
+
+msgid "Can measurably improve performance if Vsync disabled"
+msgstr ""
+
+msgid "Show the BIOS animation when starting content"
+msgstr ""
+
+msgid "Improve the fidelity of 3D models (does affect 2D sprites)"
+msgstr ""
+
+msgid "9x/4K"
+msgstr ""
+
+msgid "Smooths out jagged edges on 3D object polygons"
+msgstr ""
+
+msgid "Nearest-Neighbor"
+msgstr ""
+
+msgid "Bilinear (no edge blending)"
+msgstr ""
+
+msgid "JINC2 (no edge blending)"
+msgstr ""
+
+msgid "xBR (no edge blending)"
+msgstr ""
+
+msgid "Change the region of the console"
+msgstr ""
+
+msgid "Europe-Australia"
+msgstr ""
+
+msgid "USA-Canada"
+msgstr ""
+
+msgid "FORCE 60Hz"
+msgstr ""
+
+msgid "Force 60Hz NTSC Timing"
+msgstr ""
+
+msgid "Use the HD Texture Pack (preload requires more RAM)"
+msgstr ""
+
+msgid "Preload"
+msgstr ""
+
+msgid "Activate vibration on supported controllers"
+msgstr ""
+
+msgid "DPAD TO JOYSTICK"
+msgstr ""
+
+msgid "Use your Joystick as a D-pad on Analog controllers"
+msgstr ""
+
+msgid "Allows 5 or 8 maximum player support in games"
+msgstr ""
+
+msgid "Namco GunCon (Rumble)"
+msgstr ""
+
+msgid "NeGcon (Rumble)"
+msgstr ""
+
+msgid "MODEL"
+msgstr ""
+
+msgid "Machine model"
+msgstr ""
+
+msgid "520 ST / AUTO"
+msgstr ""
+
+msgid "520 ST / TOS 1.00"
+msgstr ""
+
+msgid "520 ST / TOS 1.02"
+msgstr ""
+
+msgid "520 ST / TOS 1.04"
+msgstr ""
+
+msgid "1040 STE / AUTO"
+msgstr ""
+
+msgid "1040 STE / 1.06"
+msgstr ""
+
+msgid "1040 STE / 1.62"
+msgstr ""
+
+msgid "Mega STE / AUTO"
+msgstr ""
+
+msgid "Mega STE / 2.05"
+msgstr ""
+
+msgid "Mega STE / 2.06"
+msgstr ""
+
+msgid "TOS languages"
+msgstr ""
+
+msgid "DE"
+msgstr ""
+
+msgid "ES"
+msgstr ""
+
+msgid "FR"
+msgstr ""
+
+msgid "IT"
+msgstr ""
+
+msgid "NL"
+msgstr ""
+
+msgid "RU"
+msgstr ""
+
+msgid "SE"
+msgstr ""
+
+msgid "RAM"
+msgstr ""
+
+msgid "RAM memory size"
+msgstr ""
+
+msgid "520K"
+msgstr ""
+
+msgid "1M"
+msgstr ""
+
+msgid "2M"
+msgstr ""
+
+msgid "4M"
+msgstr ""
+
+msgid "FRAME SKIP [GL64MK2 ONLY]"
+msgstr ""
+
+msgid "nearest"
+msgstr ""
+
+msgid "bilinear"
+msgstr ""
+
+msgid "trilinear"
+msgstr ""
+
+msgid "Enhance distant perspective textures (when using mip-mapping)"
+msgstr ""
+
+msgid "TEXTURE ENHANCEMENT (XBRZ) [RICE ONLY]"
+msgstr ""
+
+msgid "2X"
+msgstr ""
+
+msgid "2XSAI"
+msgstr ""
+
+msgid "Sharpen"
+msgstr ""
+
+msgid "Sharpen More"
+msgstr ""
+
+msgid "External"
+msgstr ""
+
+msgid "Mirrored"
+msgstr ""
+
+msgid "Use HD texture pack"
+msgstr ""
+
+msgid "DISABLE 4MB EXPANSION RAM PACK"
+msgstr ""
+
+msgid "May need to disable for some games"
+msgstr ""
+
+msgid "SCREEN RATIO"
+msgstr ""
+
+msgid "Stretch games to full-screen, but may distort the aspect ratio"
+msgstr ""
+
+msgid "Stretch"
+msgstr ""
+
+msgid "Apply a particular visual effect"
+msgstr ""
+
+msgid "Simple 2x"
+msgstr ""
+
+msgid "2xSaI"
+msgstr ""
+
+msgid "Super 2xSaI"
+msgstr ""
+
+msgid "Super Eagle"
+msgstr ""
+
+msgid "Advance Mame2x"
+msgstr ""
+
+msgid "Lq2x"
+msgstr ""
+
+msgid "Hq2x"
+msgstr ""
+
+msgid "ScanLines"
+msgstr ""
+
+msgid "ScanLines TV"
+msgstr ""
+
+msgid "TV 2x"
+msgstr ""
+
+msgid "Dot Matrix"
+msgstr ""
+
+msgid "Software"
+msgstr ""
+
+msgid "2x 720p"
+msgstr ""
+
+msgid "3x 1080p"
+msgstr ""
+
+msgid "4x 1440p 2K"
+msgstr ""
+
+msgid "5x 1620p 3K"
+msgstr ""
+
+msgid "6x 2160p 4K"
+msgstr ""
+
+msgid "7x 2880p 5K"
+msgstr ""
+
+msgid "SKIPDRAW HACK"
+msgstr ""
+
+msgid "ALIGN SPRITE (HACK)"
+msgstr ""
+
+msgid "Remove lines in internal resolution (Soul Calibur)"
+msgstr ""
+
+msgid "MICRO VU SPEED HACKS"
+msgstr ""
+
+msgid "Good speedup and high compatibility; recommended but may cause issues"
+msgstr ""
+
+msgid "mVU Flag Hack: May cause bad graphics [Recommended]"
+msgstr ""
+
+msgid "MTVU: May cause hanging [Recommended on 3+ cores]"
+msgstr ""
+
+msgid "Instant VU1: May cause some graphical errors"
+msgstr ""
+
+msgid "mVU Flag Hack + MTVU"
+msgstr ""
+
+msgid "mVU Flag Hack + Instant VU1"
+msgstr ""
+
+msgid "GAMES CHEATS"
+msgstr ""
+
+msgid "For cheating in games with Action Replay"
+msgstr ""
+
+msgid "WIDESCREEN PATCHES"
+msgstr ""
+
+msgid "AUTOMATIC GAMEFIXES"
+msgstr ""
+
+msgid "Selectively use specific tested fixes for games"
+msgstr ""
+
+msgid "MANUAL GAMEFIXES"
+msgstr ""
+
+msgid "These can cause compatibility or performance issues"
+msgstr ""
+
+msgid "VU Add hack - Fixes Tri-Ace games boot crash"
+msgstr ""
+
+msgid "FPU Compare hack - For Digimon Rumble Arena 2"
+msgstr ""
+
+msgid "FPU Multiply hack - For Tales of Destiny"
+msgstr ""
+
+msgid "FPU Negative Div hack - For Gundam Games"
+msgstr ""
+
+msgid "VU XGkick hack - For Eremental Gerad"
+msgstr ""
+
+msgid "FFX videos fix - Fixes bad graphics overlay"
+msgstr ""
+
+msgid "EE timing hack - Try if all else fails"
+msgstr ""
+
+msgid "Skip MPEG hack - Skips videos/FMVs that freezes"
+msgstr ""
+
+msgid "OPH Flag hack - Try if game freeze on same frame"
+msgstr ""
+
+msgid "Handle DMAC writes when it busy"
+msgstr ""
+
+msgid "Simulate VIF1 FIFO read - Fix slow loading"
+msgstr ""
+
+msgid "Delay VIF1 Stalls - For SOCOM2 n Spy Hunter"
+msgstr ""
+
+msgid "Enable the GIF FIFO - Wallace and Gromit, Dj Hero"
+msgstr ""
+
+msgid "Preload TLB hack to avoid tlb miss on Goemon"
+msgstr ""
+
+msgid "VU I bit hack - Scarface The World is Yours"
+msgstr ""
+
+msgid "VU I bit hack - Crash Tag Team Racing"
+msgstr ""
+
+msgid "VU0 Kickstart to avoid sync problems with VU1"
+msgstr ""
+
+msgid "3x 720p"
+msgstr ""
+
+msgid "4x 1080p"
+msgstr ""
+
+msgid "6x 1620p 3K"
+msgstr ""
+
+msgid "8x 2160p 4K"
+msgstr ""
+
+msgid "VSYNC INTERVAL"
+msgstr ""
+
+msgid "Enable for more fluidity, disable if screen tearing"
+msgstr ""
+
+msgid "Enable"
+msgstr ""
+
+msgid "Disable"
+msgstr ""
+
+msgid "TEXTURE UPSCALING LEVEL"
+msgstr ""
+
+msgid "Choose multiple of original texture resolution"
+msgstr ""
+
+msgid "TEXTURE UPSCALING TYPE"
+msgstr ""
+
+msgid "Choose upscaling method when upscaling is turned on"
+msgstr ""
+
+msgid "xBRZ"
+msgstr ""
+
+msgid "Hybride"
+msgstr ""
+
+msgid "Bicubique"
+msgstr ""
+
+msgid "Hybride + Bicubique"
+msgstr ""
+
+msgid "TEXTURE DEPOSTERIZE"
+msgstr ""
+
+msgid "Fix texture banding when upscaling"
+msgstr ""
+
+msgid "For cheating in games as with Action Replay"
+msgstr ""
+
+msgid "GRAPHICAL USER INTERFACE"
+msgstr ""
+
+msgid "Display the user interface"
+msgstr ""
+
+msgid "SPU DECODER"
+msgstr ""
+
+msgid ""
+"LLVM used by default. Use ASMJIT if game crashes; then Interpreter (fast) if "
+"still crashing."
+msgstr ""
+
+msgid "Recompiler (LLVM)"
+msgstr ""
+
+msgid "Recompiler (ASMJIT)"
+msgstr ""
+
+msgid "Interpreter (fast)"
+msgstr ""
+
+msgid "Interpreter (precise)"
+msgstr ""
+
+msgid "TEST PLAY"
+msgstr ""
+
+msgid "Enable the debug menu and the walk-through-walls button"
+msgstr ""
+
+msgid "GAME REGION (ENCODING)"
+msgstr ""
+
+msgid "Needed by some games to use special characters"
+msgstr ""
+
+msgid "Autodetect (Recommended)"
+msgstr ""
+
+msgid "European (Western)"
+msgstr ""
+
+msgid "European (Cent/East) [W-1250]"
+msgstr ""
+
+msgid "Japanese [Shift-JIS]"
+msgstr ""
+
+msgid "Cyrillic [Windows-1251]"
+msgstr ""
+
+msgid "Korean"
+msgstr ""
+
+msgid "Chinese (Simplified)"
+msgstr ""
+
+msgid "Chinese (Traditional) [Big5]"
+msgstr ""
+
+msgid "Greek"
+msgstr ""
+
+msgid "Turkish"
+msgstr ""
+
+msgid "Baltic"
+msgstr ""
+
+msgid "3D ENGINE"
+msgstr ""
+
+msgid "Enable the legacy or the new 3D engine (choose legacy for older GPUs)"
+msgstr ""
+
+msgid "Legacy3D"
+msgstr ""
+
+msgid "New3D"
+msgstr ""
+
+msgid "QUAD RENDERING"
+msgstr ""
+
+msgid "Enable proper quad rendering (for higher end systems)"
+msgstr ""
+
+msgid "ENABLE WIDESCREEN"
+msgstr ""
+
+msgid "Enable widescreen (may cause rendering issues)"
+msgstr ""
+
+msgid "CROSSHAIRS"
+msgstr ""
+
+msgid "Enable crosshairs in shooting games for the selected players"
+msgstr ""
+
+msgid "P1 only"
+msgstr ""
+
+msgid "P2 only"
+msgstr ""
+
+msgid "P1 & P2"
+msgstr ""
+
+msgid "ENABLE FORCE FEEDBACK"
+msgstr ""
+
+msgid "Enable force feedback for supported controllers with Linux drivers"
+msgstr ""
+
+msgid "MODERN PEDAL CONTROLS"
+msgstr ""
+
+msgid ""
+"Moves Accel/Brake to triggers and gear shift to shoulder buttons or right "
+"stick"
+msgstr ""
+
+msgid "ADJUST POWERPC FREQUENCY"
+msgstr ""
+
+msgid "Change the speed of the emulated PowerPC chip (fixes some issues)"
+msgstr ""
+
+msgid "50 (Default)"
+msgstr ""
+
+msgid "ZOOM (HIDE BORDERS)"
+msgstr ""
+
+msgid "Display only 200 scanlines, effectively removing borders on many games"
+msgstr ""
+
+msgid "NO (DEFAULT)"
+msgstr ""
+
+msgid "CDROM SPEED"
+msgstr ""
+
+msgid "CD-ROM reading speed"
+msgstr ""
+
+msgid "AUTO (DEFAULT)"
+msgstr ""
+
+msgid "1X"
+msgstr ""
+
+msgid "4X"
+msgstr ""
+
+msgid "8X"
+msgstr ""
+
+msgid "FORCE 386DX CPU"
+msgstr ""
+
+msgid "Force emulator to 386DX (required by some games)"
+msgstr ""
+
+msgid "CUSTOM CONFIG"
+msgstr ""
+
+msgid "Enable per-game custom configuration via MAME menu"
+msgstr ""
+
+msgid "MEDIA TYPE"
+msgstr ""
+
+msgid "Type of ROM file (Cartridge default)"
+msgstr ""
+
+msgid "Cassette"
+msgstr ""
+
+msgid "ALTERNATE MODEL"
+msgstr ""
+
+msgid "Type of FM-7 to emulate"
+msgstr ""
+
+msgid "FM-7"
+msgstr ""
+
+msgid "FM-77AV"
+msgstr ""
+
+msgid "Type of ROM file (Disk 1 default)"
+msgstr ""
+
+msgid "Disk (Drive 1)"
+msgstr ""
+
+msgid "Disk (Drive 2)"
+msgstr ""
+
+msgid "UI KEYS"
+msgstr ""
+
+msgid "Hotkey + D-Pad Up or Scroll Lock to toggle in game"
+msgstr ""
+
+msgid "Off at Start"
+msgstr ""
+
+msgid "On at Start"
+msgstr ""
+
+msgid "Type of ROM file (Floppy 1 default)"
+msgstr ""
+
+msgid "ROM (Slot 1)"
+msgstr ""
+
+msgid "ROM (Slot 2)"
+msgstr ""
+
+msgid "ROM (Slot 3)"
+msgstr ""
+
+msgid "ROM (Slot 4)"
+msgstr ""
+
+msgid "Type of ROM file (Cassette 1 default)"
+msgstr ""
+
+msgid "Cassette 1"
+msgstr ""
+
+msgid "Cassette 2"
+msgstr ""
+
+msgid "Cartridge (Slot 1)"
+msgstr ""
+
+msgid "Cartridge (Slot 2)"
+msgstr ""
+
+msgid "Cartridge (Slot 3)"
+msgstr ""
+
+msgid "Cartridge (Slot 4)"
+msgstr ""
+
+msgid "BGFX"
+msgstr ""
+
+msgid "Accel"
+msgstr ""
+
+msgid "BGFX BACKEND"
+msgstr ""
+
+msgid "Choose your graphics API"
+msgstr ""
+
+msgid "MAME Detect"
+msgstr ""
+
+msgid "OpenGL ES"
+msgstr ""
+
+msgid "BGFX VIDEO FILTER"
+msgstr ""
+
+msgid "CRT Geom"
+msgstr ""
+
+msgid "CRT Geom Deluxe"
+msgstr ""
+
+msgid "HLSL"
+msgstr ""
+
+msgid "HQ3X"
+msgstr ""
+
+msgid "CRT SWITCHRES"
+msgstr ""
+
+msgid "CRT monitor SwitchRes support"
+msgstr ""
+
+msgid "Rotate 90"
+msgstr ""
+
+msgid "Rotate 270"
+msgstr ""
+
+msgid "ALT DPAD MODE"
+msgstr ""
+
+msgid "If the D-Pad does not work properly"
+msgstr ""
+
+msgid "Off (Default)"
+msgstr ""
+
+msgid "DS3 Orientation"
+msgstr ""
+
+msgid "X360 Orientation"
+msgstr ""
+
+msgid "DXVK"
+msgstr ""
+
+msgid "Converts the DirectX 9/10/11/12 calls to Vulkan"
+msgstr ""
+
+msgid "DXVK HUD"
+msgstr ""
+
+msgid "See your FPS and version of Vulkan API/driver"
+msgstr ""
+
+msgid "ESYNC"
+msgstr ""
+
+msgid "Can increase performance for games that stress the CPU"
+msgstr ""
+
+msgid "FSYNC"
+msgstr ""
+
+msgid "Can improve frame rate and responsiveness"
+msgstr ""
+
+msgid "PBA"
+msgstr ""
+
+msgid "Vastly improves the speed of buffer maps"
+msgstr ""
+
+msgid "FSR"
+msgstr ""
+
+msgid ""
+"AMD FidelityFX Super Resolution uses advanced scaling technologies to boost "
+"your fps"
+msgstr ""
+
+msgid "NVAPI"
+msgstr ""
+
+msgid "NVAPI is NVIDIA's core software that allows direct access to NVIDIA GPU"
+msgstr ""
+
+msgid "FPS LIMITER"
+msgstr ""
+
+msgid "Allows you to limit fps to 60"
+msgstr ""
+
+msgid "MF"
+msgstr ""
+
+msgid "Install Media Foundation"
+msgstr ""
+
+msgid "VIRTUAL DESKTOP"
+msgstr ""
+
+msgid "Define the resolution and a new dedicated window"
+msgstr ""
+
+msgid "ENABLE MOUSE"
+msgstr ""
+
+msgid "Force mouse in games"
+msgstr ""
+
+msgid "ENABLE XIM"
+msgstr ""
+
+msgid "Enable XIM support"
+msgstr ""
+
+msgid "NO WRITE WATCH"
+msgstr ""
+
+msgid "Disable support for memory write watches in ntdll"
+msgstr ""
+
+msgid "FORCE LARGE ADDRESS"
+msgstr ""
+
+msgid "Force WINE to run games with large address"
+msgstr ""
+
+msgid "HEAP DELAY FREE"
+msgstr ""
+
+msgid "Delay freeing some memory"
+msgstr ""
+
+msgid "HIDE NVIDIA GPU"
+msgstr ""
+
+msgid "Force Nvidia GPUs to always be reported as AMD GPUs"
+msgstr ""
+
+msgid "ENABLE DEBUG"
+msgstr ""
+
+msgid "Enable wine debug"
+msgstr ""
+
+msgid "CONTROL CHOICE"
+msgstr ""
+
+msgid "Choose which pad to control your hero"
+msgstr ""
+
+msgid "Joypad"
+msgstr ""
+
+msgid "Left Joystick"
+msgstr ""
+
+msgid "Right Joystick"
+msgstr ""
+
+msgid "Can improve frame rates and responsiveness"
+msgstr ""
+
+msgid "HI-RES"
+msgstr ""
+
+msgid "Improve the fidelity of 3D models"
+msgstr ""
+
+msgid "THREADED 3D"
+msgstr ""
+
+msgid "Improves performance in 3D games (can cause glitches)"
+msgstr ""
+
+msgid "FIX 2D SCREEN"
+msgstr ""
+
+msgid "Fix main 2D Screen to follow action"
+msgstr ""
+
+msgid "SCALING MODE"
+msgstr ""
+
+msgid "Choose the scaling mode for the game screen"
+msgstr ""
+
+msgid "Center"
+msgstr ""
+
+msgid "Scale"
+msgstr ""
+
+msgid "Widescreen"
+msgstr ""
+
+msgid "SCALING RENDER"
+msgstr ""
+
+msgid "Choose the scaling render multiplier"
+msgstr ""
+
+msgid "x1 (640x480)"
+msgstr ""
+
+msgid "x2 (1280x960)"
+msgstr ""
+
+msgid "x3 (1920x1440)"
+msgstr ""
+
+msgid "x4 (2560x1920)"
+msgstr ""
+
+msgid "x5 (3200x2400)"
+msgstr ""
+
+msgid "x6 (3840x2880)"
+msgstr ""
+
+msgid "x7 (4480x3360)"
+msgstr ""
+
+msgid "x8 (5120x3840)"
+msgstr ""
+
+msgid "SKIP BOOT ANIMATION"
+msgstr ""
+
+msgid "Skip the on-boot Xbox animation"
+msgstr ""
+
+msgid "Normal Boot"
+msgstr ""
+
+msgid "Skipped Logo Boot"
+msgstr ""
+
+msgid "Change the game language"
+msgstr ""
+
+msgid "English"
+msgstr ""
+
+msgid "French"
+msgstr ""
+
+msgid "Italian"
+msgstr ""
+
+msgid "German"
+msgstr ""
+
+msgid "Spanish"
+msgstr ""
+
+msgid "Japanese"
+msgstr ""
+
+msgid "Portugese"
+msgstr ""
+
+msgid "Russian"
+msgstr ""
+
+msgid "Chinese"
+msgstr ""
+
+msgid "Enable vertical sync"
+msgstr ""
+
+msgid "Screen scaling options"
+msgstr ""
+
+msgid "Nearest Neighbour"
+msgstr ""
+
+msgid "Integer Scale"
+msgstr ""
+
+msgid "Sharp Bilinear"
+msgstr ""
+
+msgid "Regular Bilnear"
+msgstr ""
+
+msgid "HQ Mode"
+msgstr ""
+
+msgid "Enable High Quality effects for special stages"
+msgstr ""
+
+msgid "SKIP START MENU"
+msgstr ""
+
+msgid "Bypass the pre-game menu"
+msgstr ""
+
+msgid "DEV MENU"
+msgstr ""
+
+msgid "Modding and other advanced options"
+msgstr ""
+
+msgid "Enable high quality effects for special stages"
+msgstr ""
+
+msgid "SPINDASH TYPE"
+msgstr ""
+
+msgid "Spindash type"
+msgstr ""
+
+msgid "By Save"
+msgstr ""
+
+msgid "Sonic 2"
+msgstr ""
+
+msgid "Sonic CD"
+msgstr ""
+
+msgid "For modding and other advanced options"
+msgstr ""
+
+msgid "Choose screen ratio (4:3 default)"
+msgstr ""
+
+msgid "16:10"
+msgstr ""
+
+msgid "FAKE GOURAUD"
+msgstr ""
+
+msgid ""
+"Tries to guess Per-vertex colour (gouraud) from the Model2 per-poly "
+"information (flat)"
+msgstr ""
+
+msgid "Enables bilinear filtering of textures"
+msgstr ""
+
+msgid "TRILINEAR FILTERING"
+msgstr ""
+
+msgid ""
+"Enables mipmap usage and trilinear filtering (doesn't work with some games, "
+"DoA for example)"
+msgstr ""
+
+msgid "FILTER TILEMAPS"
+msgstr ""
+
+msgid ""
+"Enables bilinear filtering on tilemaps (looks good, but can cause some "
+"stretch artifacts)"
+msgstr ""
+
+msgid "FORCE MANAGED"
+msgstr ""
+
+msgid "Forces the DX driver to use Managed textures instead of Dynamic"
+msgstr ""
+
+msgid "ENABLE MIPMAP"
+msgstr ""
+
+msgid "Enables Direct3D Automipmap generation"
+msgstr ""
+
+msgid "ENABLE MESH TRANSPARENCY"
+msgstr ""
+
+msgid "Enabled meshed polygons for translucency."
+msgstr ""
+
+msgid "ENABLE FULL SCREEN ANTIALIASING"
+msgstr ""
+
+msgid "Enable full screen antialiasing in Direct3D."
+msgstr ""
+
+msgid "ENABLE RAW INPUT"
+msgstr ""
+
+msgid ""
+"Read mouse through Rawinput, allowing 2 mice for 2 player shooting games"
+msgstr ""
+
 msgid "SYSTEM INFO"
 msgstr "INFO SYSTÈME"
 
@@ -2308,9 +6757,6 @@ msgstr "Chargement des listes de jeux"
 
 msgid "MENU"
 msgstr "MENU"
-
-msgid "Full"
-msgstr "Complet"
 
 msgid "Kiosk"
 msgstr "Kiosque"
