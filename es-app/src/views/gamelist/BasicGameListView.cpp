@@ -4,6 +4,7 @@
 #include "views/UIModeController.h"
 #include "views/ViewController.h"
 #include "CollectionSystemManager.h"
+#include "Scripting.h"
 #include "Settings.h"
 #include "SystemData.h"
 #include "SystemConf.h"
@@ -26,7 +27,7 @@ BasicGameListView::BasicGameListView(Window* window, FolderData* root)
 		    SystemData* system = mRoot->getSystem();
 		    if (system != NULL)
 		    {
-			    Scripting::fireEvent("game-selected", system->getName(), cursor->getFileName())
+			    Scripting::fireEvent("game-selected", system->getName(), file->getFileName())
 		    }
 		    file->speak();
 		  
