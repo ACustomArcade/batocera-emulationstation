@@ -24,7 +24,7 @@ BasicGameListView::BasicGameListView(Window* window, FolderData* root)
 		{
 		  FileData* file = (mList.size() == 0 || mList.isScrolling()) ? NULL : mList.getSelected();
 		  if (file != nullptr)
-		    if (mRoot->getSystem()->getName())
+		    if (mRoot->getSystem()->getName() != NULL)
 		    {
 			    Scripting::fireEvent("game-selected", mRoot->getSystem()->getName(), file->getFileName())
 		    }
