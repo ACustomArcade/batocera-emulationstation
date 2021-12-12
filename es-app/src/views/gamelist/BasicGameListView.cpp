@@ -26,7 +26,7 @@ BasicGameListView::BasicGameListView(Window* window, FolderData* root)
 		  if (file != nullptr)
 		    if (mRoot->getSystem()->getName() != "")
 		    {
-			    Scripting::fireEvent("game-selected", mRoot->getSystem()->getName(), file->getFileName())
+			    Scripting::fireEvent("game-selected", mRoot->getSystem()->getName(), file->getFileName());
 		    }
 		    file->speak();
 		  
