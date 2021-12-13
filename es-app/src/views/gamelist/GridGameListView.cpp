@@ -4,6 +4,7 @@
 #include "views/UIModeController.h"
 #include "views/ViewController.h"
 #include "CollectionSystemManager.h"
+#include "Scripting.h"
 #include "Settings.h"
 #include "SystemData.h"
 #include "LocaleES.h"
@@ -254,6 +255,8 @@ void GridGameListView::updateInfoPanel()
 	FileData* file = (mGrid.size() == 0 || mGrid.isScrolling()) ? NULL : mGrid.getSelected();
 	bool isClearing = mGrid.getObjects().size() == 0 && mGrid.getCursorIndex() == 0 && mGrid.getScrollingVelocity() == 0;
 	mDetails.updateControls(file, isClearing, mGrid.getCursorIndex() - mGrid.getLastCursor());
+
+	Scripting::fireEvent("game-selected", mRoot->getSystem()->getName(), file->getFileName());
 }
 
 void GridGameListView::addPlaceholder()

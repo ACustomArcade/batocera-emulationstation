@@ -4,6 +4,7 @@
 #include "views/UIModeController.h"
 #include "views/ViewController.h"
 #include "CollectionSystemManager.h"
+#include "Scripting.h"
 #include "Settings.h"
 #include "SystemData.h"
 #include "SystemConf.h"
@@ -24,6 +25,7 @@ BasicGameListView::BasicGameListView(Window* window, FolderData* root)
 		  FileData* file = (mList.size() == 0 || mList.isScrolling()) ? NULL : mList.getSelected();
 		  if (file != nullptr)
 		    file->speak();
+			Scripting::fireEvent("game-selected", mRoot->getSystem()->getName(), file->getFileName());
 		  
 			if (mRoot->getSystem()->isCollection())
 				updateHelpPrompts();

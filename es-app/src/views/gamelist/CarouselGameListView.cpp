@@ -4,6 +4,7 @@
 #include "views/UIModeController.h"
 #include "views/ViewController.h"
 #include "CollectionSystemManager.h"
+#include "Scripting.h"
 #include "Settings.h"
 #include "SystemData.h"
 #include "SystemConf.h"
@@ -49,6 +50,8 @@ void CarouselGameListView::updateInfoPanel()
 	FileData* file = (mList.size() == 0 || mList.isScrolling()) ? NULL : mList.getSelected();
 	bool isClearing = mList.getObjects().size() == 0 && mList.getCursorIndex() == 0 && mList.getScrollingVelocity() == 0;
 	mDetails.updateControls(file, isClearing, mList.getCursorIndex() - mList.getLastCursor());
+
+	Scripting::fireEvent("game-selected", mRoot->getSystem()->getName(), file->getFileName());
 }
 
 void CarouselGameListView::onFileChanged(FileData* file, FileChangeType change)

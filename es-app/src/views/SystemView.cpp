@@ -5,6 +5,7 @@
 #include "views/UIModeController.h"
 #include "views/ViewController.h"
 #include "Log.h"
+#include "Scripting.h"
 #include "Settings.h"
 #include "SystemData.h"
 #include "Window.h"
@@ -730,6 +731,7 @@ void SystemView::updateExtraTextBinding()
 
 void SystemView::onCursorChanged(const CursorState& state)
 {
+
 	if (AudioManager::isInitialized())
 		AudioManager::getInstance()->changePlaylist(getSelected()->getTheme());
 
@@ -832,7 +834,10 @@ void SystemView::onCursorChanged(const CursorState& state)
 
 	// tts
 	if(state == CURSOR_STOPPED)
-	  TextToSpeech::getInstance()->say(getSelected()->getFullName());
+	{
+		TextToSpeech::getInstance()->say(getSelected()->getFullName());
+		Scripting::fireEvent("system-selected", getSelected()->getName());
+	}
 
 	if (!mCarousel.scrollSound.empty())
 		Sound::get(mCarousel.scrollSound)->play();
@@ -1718,7 +1723,10 @@ void SystemView::onShow()
 		sb->onShow();
 
 	if (getSelected() != nullptr)
+	{
 		TextToSpeech::getInstance()->say(getSelected()->getFullName());
+		Scripting::fireEvent("system-selected", getSelected()->getName());
+	}
 
 }
 

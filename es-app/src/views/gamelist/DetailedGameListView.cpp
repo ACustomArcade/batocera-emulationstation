@@ -3,6 +3,7 @@
 #include "animations/LambdaAnimation.h"
 #include "views/ViewController.h"
 #include "FileData.h"
+#include "Scripting.h"
 #include "SystemData.h"
 #include "LocaleES.h"
 
@@ -42,6 +43,8 @@ void DetailedGameListView::updateInfoPanel()
 	FileData* file = (mList.size() == 0 || mList.isScrolling()) ? NULL : mList.getSelected();	
 	bool isClearing = mList.getObjects().size() == 0 && mList.getCursorIndex() == 0 && mList.getScrollingVelocity() == 0;
 	mDetails.updateControls(file, isClearing, mList.getCursorIndex() - mList.getLastCursor());
+
+	Scripting::fireEvent("game-selected", mRoot->getSystem()->getName(), file->getFileName());
 }
 
 void DetailedGameListView::launch(FileData* game)
